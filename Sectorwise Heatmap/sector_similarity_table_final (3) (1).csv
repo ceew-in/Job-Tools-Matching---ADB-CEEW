@@ -1,0 +1,1850 @@
+Sector 1,Sector 2,Similarity Score
+Wood & Carpentry,Wood & Carpentry,100.0
+"Water Supply, Sewerage, Waste Management & Remediation activities","Water Supply, Sewerage, Waste Management & Remediation activities",100.0
+Paints & Coatings,Paints & Coatings,100.0
+Power,Power,83.67992953279241
+Sports,Sports,83.33637850584377
+Apparel,Apparel,82.94073643830498
+Furniture & Fittings,Furniture & Fittings,81.15667342476993
+Domestic Workers,Domestic Workers,81.10307530583042
+Life Sciences,Life Sciences,80.81344131713809
+Retail,Retail,80.55250664180456
+Food Processing,Food Processing,80.28889914611408
+Telecom,Telecom,80.11512750543487
+PwD,PwD,79.93745313958368
+Mining,Mining,79.39916110134942
+Cross Sectoral,Cross Sectoral,79.38776123655481
+Leather,Leather,79.30123156936014
+Logistics,Logistics,79.2432003055174
+Tourism & Hospitality,Tourism & Hospitality,79.15598843871456
+Infrastructure Equipment,Infrastructure Equipment,78.41780276821412
+BFSI,BFSI,78.25895630636388
+Green Jobs,Green Jobs,78.21918446925886
+Iron and Steel,Iron and Steel,78.08884753477922
+Agriculture,Agriculture,77.99213560595673
+Information Technology Sector,Information Technology Sector,77.97903960334158
+Plumbing,Plumbing,77.77470673383027
+Capital Goods & Manufacturing,Capital Goods & Manufacturing,77.55482819257317
+Healthcare,Healthcare,77.50176071991693
+Automotive,Automotive,76.78071265314766
+Retail,Wood & Carpentry,76.46069109901909
+Wood & Carpentry,Retail,76.46069109901909
+Hydrocarbon,Hydrocarbon,76.31102974212811
+"Education, Training & Research","Education, Training & Research",76.305555314264
+Instrumentation,Instrumentation,75.60422965744432
+"Water Supply, Sewerage, Waste Management & Remediation activities",Power,74.75672402538447
+Power,"Water Supply, Sewerage, Waste Management & Remediation activities",74.75672402538447
+Handicrafts and Carpet,Handicrafts and Carpet,73.5444037150812
+Wood & Carpentry,PwD,73.42470307262374
+PwD,Wood & Carpentry,73.42470307262374
+Wood & Carpentry,Sports,73.40488804560385
+Sports,Wood & Carpentry,73.40488804560385
+Construction,Construction,73.06382286833838
+Management,Management,72.88980993080746
+IT-ITeS,IT-ITeS,72.87682211178249
+Cross Sectoral,"Water Supply, Sewerage, Waste Management & Remediation activities",72.53911623234865
+"Water Supply, Sewerage, Waste Management & Remediation activities",Cross Sectoral,72.53911623234865
+Apparel,Leather,72.31334347848659
+Leather,Apparel,72.31334347848659
+Tourism & Hospitality,Wood & Carpentry,72.27049950075116
+Wood & Carpentry,Tourism & Hospitality,72.27049950075116
+Mining,Power,71.79018043060664
+Power,Mining,71.79018043060664
+Wood & Carpentry,Domestic Workers,71.77872871044555
+Domestic Workers,Wood & Carpentry,71.77872871044555
+Electronics,Electronics,71.45684324896824
+Domestic Workers,PwD,71.41763822903413
+PwD,Domestic Workers,71.41763822903413
+Sports,Domestic Workers,71.26653162449477
+Domestic Workers,Sports,71.26653162449477
+PwD,Sports,71.2458906308611
+Sports,PwD,71.2458906308611
+Wood & Carpentry,BFSI,71.01500168014482
+BFSI,Wood & Carpentry,71.01500168014482
+Rubber,Rubber,70.89888134114622
+Tourism & Hospitality,Domestic Workers,70.82081677714847
+Domestic Workers,Tourism & Hospitality,70.82081677714847
+Telecom,Power,70.74893286873537
+Power,Telecom,70.74893286873537
+PwD,Tourism & Hospitality,70.65220932578343
+Tourism & Hospitality,PwD,70.65220932578343
+Apparel,Capital Goods & Manufacturing,70.55290139366406
+Capital Goods & Manufacturing,Apparel,70.55290139366406
+Apparel,Power,70.47025587152257
+Power,Apparel,70.47025587152257
+"Education, Training & Research",Sports,70.45261652953423
+Sports,"Education, Training & Research",70.45261652953423
+Wood & Carpentry,Information Technology Sector,70.4275679746152
+Information Technology Sector,Wood & Carpentry,70.4275679746152
+PwD,Apparel,70.41598217525957
+Apparel,PwD,70.41598217525957
+Wood & Carpentry,Healthcare,70.33071146834966
+Healthcare,Wood & Carpentry,70.33071146834966
+Hydrocarbon,Power,70.29799624778562
+Power,Hydrocarbon,70.29799624778562
+Food Processing,Apparel,70.28535136949914
+Apparel,Food Processing,70.28535136949914
+Healthcare,Domestic Workers,70.24286148251477
+Domestic Workers,Healthcare,70.24286148251477
+Aerospace and Aviation,Aerospace and Aviation,70.21363714855255
+Retail,PwD,70.19757269837469
+PwD,Retail,70.19757269837469
+Green Jobs,Power,70.08498635461129
+Power,Green Jobs,70.08498635461129
+Cross Sectoral,Power,70.06779368435079
+Power,Cross Sectoral,70.06779368435079
+Power,Infrastructure Equipment,69.88995746499918
+Infrastructure Equipment,Power,69.88995746499918
+PwD,Healthcare,69.86557038470757
+Healthcare,PwD,69.86557038470757
+Capital Goods & Manufacturing,Power,69.83132679614738
+Power,Capital Goods & Manufacturing,69.83132679614738
+Apparel,Mining,69.8006159328231
+Mining,Apparel,69.8006159328231
+Infrastructure Equipment,Mining,69.79615485709431
+Mining,Infrastructure Equipment,69.79615485709431
+Apparel,Domestic Workers,69.68546042586412
+Domestic Workers,Apparel,69.68546042586412
+Life Sciences,PwD,69.66946193248413
+PwD,Life Sciences,69.66946193248413
+Wood & Carpentry,"Education, Training & Research",69.64567575774286
+"Education, Training & Research",Wood & Carpentry,69.64567575774286
+Life Sciences,Power,69.54804094246538
+Power,Life Sciences,69.54804094246538
+Media & Entertainment,Media & Entertainment,69.54375781066099
+PwD,Power,69.50261040760026
+Power,PwD,69.50261040760026
+Iron and Steel,Power,69.48079138684625
+Power,Iron and Steel,69.48079138684625
+Life Sciences,"Water Supply, Sewerage, Waste Management & Remediation activities",69.40348645108264
+"Water Supply, Sewerage, Waste Management & Remediation activities",Life Sciences,69.40348645108264
+Healthcare,Sports,69.3964520078649
+Sports,Healthcare,69.3964520078649
+Food Processing,Power,69.38677235889514
+Power,Food Processing,69.38677235889514
+Apparel,Furniture & Fittings,69.35978084588538
+Furniture & Fittings,Apparel,69.35978084588538
+Sports,Tourism & Hospitality,69.31696894309881
+Tourism & Hospitality,Sports,69.31696894309881
+Domestic Workers,"Education, Training & Research",69.27982416547829
+"Education, Training & Research",Domestic Workers,69.27982416547829
+Domestic Workers,Power,69.13014407820754
+Power,Domestic Workers,69.13014407820754
+Power,Plumbing,69.12255404601734
+Plumbing,Power,69.12255404601734
+Retail,Sports,69.09019872925016
+Sports,Retail,69.09019872925016
+Iron and Steel,Capital Goods & Manufacturing,69.06237759559298
+Capital Goods & Manufacturing,Iron and Steel,69.06237759559298
+Hydrocarbon,"Water Supply, Sewerage, Waste Management & Remediation activities",69.0058092009897
+"Water Supply, Sewerage, Waste Management & Remediation activities",Hydrocarbon,69.0058092009897
+Mining,Iron and Steel,68.97241413864101
+Iron and Steel,Mining,68.97241413864101
+Mining,"Water Supply, Sewerage, Waste Management & Remediation activities",68.96398192238114
+"Water Supply, Sewerage, Waste Management & Remediation activities",Mining,68.96398192238114
+Retail,Domestic Workers,68.93208703590139
+Domestic Workers,Retail,68.93208703590139
+Power,Instrumentation,68.8268553268651
+Instrumentation,Power,68.8268553268651
+Logistics,Power,68.81329370922319
+Power,Logistics,68.81329370922319
+Wood & Carpentry,Management,68.7905413163313
+Management,Wood & Carpentry,68.7905413163313
+Healthcare,"Education, Training & Research",68.75122306443268
+"Education, Training & Research",Healthcare,68.75122306443268
+Logistics,Wood & Carpentry,68.74203911163195
+Wood & Carpentry,Logistics,68.74203911163195
+Food Processing,Leather,68.74077881762783
+Leather,Food Processing,68.74077881762783
+Apparel,Life Sciences,68.70714820506551
+Life Sciences,Apparel,68.70714820506551
+Capital Goods & Manufacturing,Sports,68.69463160274537
+Sports,Capital Goods & Manufacturing,68.69463160274537
+Sports,Apparel,68.69440307613867
+Apparel,Sports,68.69440307613867
+Mining,Food Processing,68.6656650433585
+Food Processing,Mining,68.6656650433585
+Retail,Tourism & Hospitality,68.61860630223184
+Tourism & Hospitality,Retail,68.61860630223184
+Capital Goods & Manufacturing,Mining,68.61494299540725
+Mining,Capital Goods & Manufacturing,68.61494299540725
+Plumbing,"Water Supply, Sewerage, Waste Management & Remediation activities",68.60272591998735
+"Water Supply, Sewerage, Waste Management & Remediation activities",Plumbing,68.60272591998735
+Life Sciences,Domestic Workers,68.54815624507167
+Domestic Workers,Life Sciences,68.54815624507167
+Capital Goods & Manufacturing,Life Sciences,68.5032036847428
+Life Sciences,Capital Goods & Manufacturing,68.5032036847428
+Apparel,Wood & Carpentry,68.49363202997407
+Wood & Carpentry,Apparel,68.49363202997407
+Furniture & Fittings,Capital Goods & Manufacturing,68.48139096239566
+Capital Goods & Manufacturing,Furniture & Fittings,68.48139096239566
+Life Sciences,Wood & Carpentry,68.46954251043688
+Wood & Carpentry,Life Sciences,68.46954251043688
+Capital Goods & Manufacturing,PwD,68.41054429094928
+PwD,Capital Goods & Manufacturing,68.41054429094928
+Food Processing,Agriculture,68.39289598010681
+Agriculture,Food Processing,68.39289598010681
+Life Sciences,Sports,68.38739585954818
+Sports,Life Sciences,68.38739585954818
+Textile,Textile,68.38543899485822
+PwD,"Water Supply, Sewerage, Waste Management & Remediation activities",68.37082476485074
+"Water Supply, Sewerage, Waste Management & Remediation activities",PwD,68.37082476485074
+Capital Goods & Manufacturing,Logistics,68.36995314806221
+Logistics,Capital Goods & Manufacturing,68.36995314806221
+PwD,Logistics,68.36101509111485
+Logistics,PwD,68.36101509111485
+Power,Automotive,68.36011890369981
+Automotive,Power,68.36011890369981
+Healthcare,Life Sciences,68.35256781331381
+Life Sciences,Healthcare,68.35256781331381
+Wood & Carpentry,Capital Goods & Manufacturing,68.29224303564659
+Capital Goods & Manufacturing,Wood & Carpentry,68.29224303564659
+Iron and Steel,PwD,68.28521754366372
+PwD,Iron and Steel,68.28521754366372
+Handicrafts and Carpet,Apparel,68.2572976583647
+Apparel,Handicrafts and Carpet,68.2572976583647
+Mining,Hydrocarbon,68.22971599085484
+Hydrocarbon,Mining,68.22971599085484
+Wood & Carpentry,Furniture & Fittings,68.2036133645093
+Furniture & Fittings,Wood & Carpentry,68.2036133645093
+"Education, Training & Research",Retail,68.20337427892123
+Retail,"Education, Training & Research",68.20337427892123
+Telecom,PwD,68.14576903792505
+PwD,Telecom,68.14576903792505
+Apparel,Telecom,68.13771440371964
+Telecom,Apparel,68.13771440371964
+"Education, Training & Research",Life Sciences,68.1309476488066
+Life Sciences,"Education, Training & Research",68.1309476488066
+Infrastructure Equipment,Food Processing,68.1203780080601
+Food Processing,Infrastructure Equipment,68.1203780080601
+Capital Goods & Manufacturing,Automotive,68.08920698430356
+Automotive,Capital Goods & Manufacturing,68.08920698430356
+Retail,BFSI,68.08045089060975
+BFSI,Retail,68.08045089060975
+Leather,Furniture & Fittings,68.07467211423867
+Furniture & Fittings,Leather,68.07467211423867
+Automotive,Apparel,68.07299587758432
+Apparel,Automotive,68.07299587758432
+Telecom,Capital Goods & Manufacturing,68.0728483136616
+Capital Goods & Manufacturing,Telecom,68.0728483136616
+Tourism & Hospitality,Healthcare,68.06680229731909
+Healthcare,Tourism & Hospitality,68.06680229731909
+Food Processing,Green Jobs,68.063885253799
+Green Jobs,Food Processing,68.063885253799
+Telecom,Life Sciences,68.06372963053641
+Life Sciences,Telecom,68.06372963053641
+Furniture & Fittings,Food Processing,68.06208128122994
+Food Processing,Furniture & Fittings,68.06208128122994
+"Education, Training & Research",Apparel,68.05892206292732
+Apparel,"Education, Training & Research",68.05892206292732
+PwD,"Education, Training & Research",68.0183600587145
+"Education, Training & Research",PwD,68.0183600587145
+Instrumentation,Telecom,68.01588420346106
+Telecom,Instrumentation,68.01588420346106
+Power,Sports,67.99083451722827
+Sports,Power,67.99083451722827
+Apparel,Iron and Steel,67.90201670618347
+Iron and Steel,Apparel,67.90201670618347
+Logistics,Telecom,67.89177927750025
+Telecom,Logistics,67.89177927750025
+Domestic Workers,Capital Goods & Manufacturing,67.89014209469377
+Capital Goods & Manufacturing,Domestic Workers,67.89014209469377
+Logistics,Life Sciences,67.88555753658531
+Life Sciences,Logistics,67.88555753658531
+Telecom,Mining,67.87109526436231
+Mining,Telecom,67.87109526436231
+Wood & Carpentry,Telecom,67.84476313088219
+Telecom,Wood & Carpentry,67.84476313088219
+Infrastructure Equipment,Apparel,67.81129162401221
+Apparel,Infrastructure Equipment,67.81129162401221
+Iron and Steel,Wood & Carpentry,67.78730320682192
+Wood & Carpentry,Iron and Steel,67.78730320682192
+Mining,PwD,67.78602253599217
+PwD,Mining,67.78602253599217
+Iron and Steel,Food Processing,67.78022700715067
+Food Processing,Iron and Steel,67.78022700715067
+Domestic Workers,Logistics,67.76972366664678
+Logistics,Domestic Workers,67.76972366664678
+PwD,Automotive,67.76611319938658
+Automotive,PwD,67.76611319938658
+Infrastructure Equipment,Iron and Steel,67.74022170818496
+Iron and Steel,Infrastructure Equipment,67.74022170818496
+Tourism & Hospitality,"Education, Training & Research",67.73789500231626
+"Education, Training & Research",Tourism & Hospitality,67.73789500231626
+Logistics,Furniture & Fittings,67.71424075987478
+Furniture & Fittings,Logistics,67.71424075987478
+Domestic Workers,Mining,67.6914222262572
+Mining,Domestic Workers,67.6914222262572
+Apparel,Logistics,67.68364567760945
+Logistics,Apparel,67.68364567760945
+Cross Sectoral,Capital Goods & Manufacturing,67.67171847131037
+Capital Goods & Manufacturing,Cross Sectoral,67.67171847131037
+Telecom,Sports,67.64935387907931
+Sports,Telecom,67.64935387907931
+Cross Sectoral,"Education, Training & Research",67.62982805584414
+"Education, Training & Research",Cross Sectoral,67.62982805584414
+Power,"Education, Training & Research",67.61066457354343
+"Education, Training & Research",Power,67.61066457354343
+Life Sciences,Mining,67.60950180256305
+Mining,Life Sciences,67.60950180256305
+Handicrafts and Carpet,Leather,67.60859303604023
+Leather,Handicrafts and Carpet,67.60859303604023
+Green Jobs,Apparel,67.60638916167287
+Apparel,Green Jobs,67.60638916167287
+Telecom,Domestic Workers,67.59287665389763
+Domestic Workers,Telecom,67.59287665389763
+Sports,Logistics,67.57884361978054
+Logistics,Sports,67.57884361978054
+Food Processing,Domestic Workers,67.52141917371767
+Domestic Workers,Food Processing,67.52141917371767
+Apparel,Tourism & Hospitality,67.51739121728477
+Tourism & Hospitality,Apparel,67.51739121728477
+PwD,Leather,67.51347393329117
+Leather,PwD,67.51347393329117
+Domestic Workers,"Water Supply, Sewerage, Waste Management & Remediation activities",67.50292116965367
+"Water Supply, Sewerage, Waste Management & Remediation activities",Domestic Workers,67.50292116965367
+Leather,Capital Goods & Manufacturing,67.46801263530023
+Capital Goods & Manufacturing,Leather,67.46801263530023
+Power,Furniture & Fittings,67.39060254700635
+Furniture & Fittings,Power,67.39060254700635
+Apparel,Healthcare,67.3267527869026
+Healthcare,Apparel,67.3267527869026
+Mining,Green Jobs,67.3117895319034
+Green Jobs,Mining,67.3117895319034
+Logistics,Food Processing,67.3037164859384
+Food Processing,Logistics,67.3037164859384
+Green Jobs,Telecom,67.28559626765973
+Telecom,Green Jobs,67.28559626765973
+Healthcare,Power,67.25208692724227
+Power,Healthcare,67.25208692724227
+Hydrocarbon,Telecom,67.24614547598406
+Telecom,Hydrocarbon,67.24614547598406
+BFSI,"Education, Training & Research",67.23636506961029
+"Education, Training & Research",BFSI,67.23636506961029
+Automotive,Domestic Workers,67.23246336828426
+Domestic Workers,Automotive,67.23246336828426
+Capital Goods,Capital Goods,67.21631574318234
+Green Jobs,Agriculture,67.17996762994896
+Agriculture,Green Jobs,67.17996762994896
+Tourism & Hospitality,Capital Goods & Manufacturing,67.1743675037806
+Capital Goods & Manufacturing,Tourism & Hospitality,67.1743675037806
+Sports,Mining,67.17352134976969
+Mining,Sports,67.17352134976969
+Green Jobs,"Water Supply, Sewerage, Waste Management & Remediation activities",67.16135578503871
+"Water Supply, Sewerage, Waste Management & Remediation activities",Green Jobs,67.16135578503871
+Mining,Leather,67.13811927176626
+Leather,Mining,67.13811927176626
+Agriculture,Apparel,67.13370568790926
+Apparel,Agriculture,67.13370568790926
+Furniture & Fittings,Mining,67.11784876068877
+Mining,Furniture & Fittings,67.11784876068877
+Capital Goods & Manufacturing,Food Processing,67.11369581567527
+Food Processing,Capital Goods & Manufacturing,67.11369581567527
+Food Processing,Telecom,67.10355238680928
+Telecom,Food Processing,67.10355238680928
+Food Processing,Life Sciences,67.09840853894936
+Life Sciences,Food Processing,67.09840853894936
+Domestic Workers,Iron and Steel,67.08170528003136
+Iron and Steel,Domestic Workers,67.08170528003136
+Cross Sectoral,Life Sciences,67.07875364618884
+Life Sciences,Cross Sectoral,67.07875364618884
+Logistics,"Education, Training & Research",67.06959462909794
+"Education, Training & Research",Logistics,67.06959462909794
+Green Jobs,Plumbing,67.05751660432387
+Plumbing,Green Jobs,67.05751660432387
+Mining,Logistics,67.05560337514244
+Logistics,Mining,67.05560337514244
+Life Sciences,Automotive,67.04092789063206
+Automotive,Life Sciences,67.04092789063206
+Hydrocarbon,Apparel,66.98691546500379
+Apparel,Hydrocarbon,66.98691546500379
+BFSI,Domestic Workers,66.98063894643006
+Domestic Workers,BFSI,66.98063894643006
+Tourism & Hospitality,Life Sciences,66.95007143922537
+Life Sciences,Tourism & Hospitality,66.95007143922537
+Capital Goods & Manufacturing,"Water Supply, Sewerage, Waste Management & Remediation activities",66.93636905011712
+"Water Supply, Sewerage, Waste Management & Remediation activities",Capital Goods & Manufacturing,66.93636905011712
+Retail,Information Technology Sector,66.93213925115315
+Information Technology Sector,Retail,66.93213925115315
+Power,Tourism & Hospitality,66.9203369713868
+Tourism & Hospitality,Power,66.9203369713868
+Automotive,Mining,66.90821201856494
+Mining,Automotive,66.90821201856494
+Information Technology Sector,Telecom,66.90488236597206
+Telecom,Information Technology Sector,66.90488236597206
+Telecom,Automotive,66.90262297730787
+Automotive,Telecom,66.90262297730787
+Leather,Iron and Steel,66.89065729309766
+Iron and Steel,Leather,66.89065729309766
+Hydrocarbon,Life Sciences,66.87637244969893
+Life Sciences,Hydrocarbon,66.87637244969893
+Construction,Power,66.84704936932849
+Power,Construction,66.84704936932849
+Instrumentation,Mining,66.84301928452956
+Mining,Instrumentation,66.84301928452956
+Domestic Workers,Green Jobs,66.83434937619553
+Green Jobs,Domestic Workers,66.83434937619553
+Hydrocarbon,Green Jobs,66.83291040373904
+Green Jobs,Hydrocarbon,66.83291040373904
+Agriculture,Power,66.830674382776
+Power,Agriculture,66.830674382776
+PwD,Food Processing,66.82023410863972
+Food Processing,PwD,66.82023410863972
+Domestic Workers,Leather,66.78700782446215
+Leather,Domestic Workers,66.78700782446215
+Instrumentation,Infrastructure Equipment,66.76568474592572
+Infrastructure Equipment,Instrumentation,66.76568474592572
+Logistics,Green Jobs,66.76534476602068
+Green Jobs,Logistics,66.76534476602068
+Infrastructure Equipment,Leather,66.75819033503315
+Leather,Infrastructure Equipment,66.75819033503315
+Power,Leather,66.75392605740285
+Leather,Power,66.75392605740285
+Green Jobs,Sports,66.75387819656912
+Sports,Green Jobs,66.75387819656912
+Automotive,Sports,66.72795371351371
+Sports,Automotive,66.72795371351371
+Wood & Carpentry,Automotive,66.72372405496185
+Automotive,Wood & Carpentry,66.72372405496185
+Plumbing,Infrastructure Equipment,66.69669138357025
+Infrastructure Equipment,Plumbing,66.69669138357025
+Capital Goods & Manufacturing,Hydrocarbon,66.69001606279276
+Hydrocarbon,Capital Goods & Manufacturing,66.69001606279276
+Green Jobs,PwD,66.60004331282845
+PwD,Green Jobs,66.60004331282845
+BFSI,Sports,66.59501255167312
+Sports,BFSI,66.59501255167312
+Capital Goods & Manufacturing,Healthcare,66.58961724940202
+Healthcare,Capital Goods & Manufacturing,66.58961724940202
+"Water Supply, Sewerage, Waste Management & Remediation activities",Apparel,66.57459599532727
+Apparel,"Water Supply, Sewerage, Waste Management & Remediation activities",66.57459599532727
+Healthcare,BFSI,66.56183009145434
+BFSI,Healthcare,66.56183009145434
+Infrastructure Equipment,Telecom,66.54701329393387
+Telecom,Infrastructure Equipment,66.54701329393387
+"Education, Training & Research",Capital Goods & Manufacturing,66.54367901567974
+Capital Goods & Manufacturing,"Education, Training & Research",66.54367901567974
+Green Jobs,"Education, Training & Research",66.53647955922244
+"Education, Training & Research",Green Jobs,66.53647955922244
+Hydrocarbon,PwD,66.52974285276015
+PwD,Hydrocarbon,66.52974285276015
+Infrastructure Equipment,Hydrocarbon,66.52549931682273
+Hydrocarbon,Infrastructure Equipment,66.52549931682273
+Food Processing,Sports,66.52520334046437
+Sports,Food Processing,66.52520334046437
+Mining,Plumbing,66.5219306441444
+Plumbing,Mining,66.5219306441444
+Telecom,BFSI,66.50960966307952
+BFSI,Telecom,66.50960966307952
+Information Technology Sector,Sports,66.48026079105117
+Sports,Information Technology Sector,66.48026079105117
+Food Processing,Hydrocarbon,66.46972714969209
+Hydrocarbon,Food Processing,66.46972714969209
+Iron and Steel,Furniture & Fittings,66.45182301950716
+Furniture & Fittings,Iron and Steel,66.45182301950716
+PwD,BFSI,66.44623944818198
+BFSI,PwD,66.44623944818198
+"Education, Training & Research",Information Technology Sector,66.43660929258996
+Information Technology Sector,"Education, Training & Research",66.43660929258996
+Domestic Workers,Furniture & Fittings,66.42939745039662
+Furniture & Fittings,Domestic Workers,66.42939745039662
+Healthcare,Retail,66.42389910960915
+Retail,Healthcare,66.42389910960915
+Cross Sectoral,Mining,66.40857014001936
+Mining,Cross Sectoral,66.40857014001936
+Automotive,Iron and Steel,66.4008228503846
+Iron and Steel,Automotive,66.4008228503846
+Green Jobs,Furniture & Fittings,66.39181701927396
+Furniture & Fittings,Green Jobs,66.39181701927396
+Tourism & Hospitality,Telecom,66.38296248787837
+Telecom,Tourism & Hospitality,66.38296248787837
+Iron and Steel,Hydrocarbon,66.37861923737495
+Hydrocarbon,Iron and Steel,66.37861923737495
+Capital Goods & Manufacturing,Green Jobs,66.37837104800802
+Green Jobs,Capital Goods & Manufacturing,66.37837104800802
+"Education, Training & Research",Telecom,66.36965326749873
+Telecom,"Education, Training & Research",66.36965326749873
+Mining,Tourism & Hospitality,66.35857949653783
+Tourism & Hospitality,Mining,66.35857949653783
+Tourism & Hospitality,Logistics,66.34690947763292
+Logistics,Tourism & Hospitality,66.34690947763292
+Management,"Education, Training & Research",66.33060438027363
+"Education, Training & Research",Management,66.33060438027363
+Green Jobs,Infrastructure Equipment,66.32350540109984
+Infrastructure Equipment,Green Jobs,66.32350540109984
+Apparel,Retail,66.31017288819969
+Retail,Apparel,66.31017288819969
+Capital Goods & Manufacturing,Infrastructure Equipment,66.30653506721377
+Infrastructure Equipment,Capital Goods & Manufacturing,66.30653506721377
+Healthcare,Telecom,66.3041688505436
+Telecom,Healthcare,66.3041688505436
+Automotive,Food Processing,66.27449848327117
+Food Processing,Automotive,66.27449848327117
+Healthcare,"Water Supply, Sewerage, Waste Management & Remediation activities",66.26385758424088
+"Water Supply, Sewerage, Waste Management & Remediation activities",Healthcare,66.26385758424088
+Furniture & Fittings,Telecom,66.2565904241514
+Telecom,Furniture & Fittings,66.2565904241514
+Logistics,Hydrocarbon,66.25581991965005
+Hydrocarbon,Logistics,66.25581991965005
+Hydrocarbon,Plumbing,66.25542278336553
+Plumbing,Hydrocarbon,66.25542278336553
+Furniture & Fittings,Sports,66.23283607742117
+Sports,Furniture & Fittings,66.23283607742117
+Retail,Capital Goods & Manufacturing,66.22897437176485
+Capital Goods & Manufacturing,Retail,66.22897437176485
+BFSI,Life Sciences,66.22697613878125
+Life Sciences,BFSI,66.22697613878125
+Sports,Iron and Steel,66.21264704755062
+Iron and Steel,Sports,66.21264704755062
+Tourism & Hospitality,Automotive,66.21041321714763
+Automotive,Tourism & Hospitality,66.21041321714763
+Green Jobs,Iron and Steel,66.13033531931184
+Iron and Steel,Green Jobs,66.13033531931184
+"Education, Training & Research",Mining,66.12860934667222
+Mining,"Education, Training & Research",66.12860934667222
+Domestic Workers,Hydrocarbon,66.12259190884421
+Hydrocarbon,Domestic Workers,66.12259190884421
+Wood & Carpentry,Leather,66.12042957103127
+Leather,Wood & Carpentry,66.12042957103127
+Hydrocarbon,Cross Sectoral,66.09512704178344
+Cross Sectoral,Hydrocarbon,66.09512704178344
+Logistics,Automotive,66.09107267812124
+Automotive,Logistics,66.09107267812124
+Food Processing,Instrumentation,66.0797366767343
+Instrumentation,Food Processing,66.0797366767343
+Telecom,"Water Supply, Sewerage, Waste Management & Remediation activities",66.07382432198843
+"Water Supply, Sewerage, Waste Management & Remediation activities",Telecom,66.07382432198843
+Information Technology Sector,BFSI,66.06094180433492
+BFSI,Information Technology Sector,66.06094180433492
+Tourism & Hospitality,BFSI,66.00235985504195
+BFSI,Tourism & Hospitality,66.00235985504195
+Management,Sports,65.98027505114952
+Sports,Management,65.98027505114952
+Construction,Apparel,65.97379700026262
+Apparel,Construction,65.97379700026262
+Sports,Leather,65.95894493148867
+Leather,Sports,65.95894493148867
+Logistics,BFSI,65.95659908290304
+BFSI,Logistics,65.95659908290304
+Gem & Jewellery,Gem & Jewellery,65.95083103139388
+Agriculture,Mining,65.94320554033833
+Mining,Agriculture,65.94320554033833
+Healthcare,Mining,65.93876347691075
+Mining,Healthcare,65.93876347691075
+Telecom,Plumbing,65.9384747799483
+Plumbing,Telecom,65.9384747799483
+Handicrafts and Carpet,Food Processing,65.93832913955349
+Food Processing,Handicrafts and Carpet,65.93832913955349
+Life Sciences,Green Jobs,65.93827490867965
+Green Jobs,Life Sciences,65.93827490867965
+Capital Goods & Manufacturing,Instrumentation,65.9356074340417
+Instrumentation,Capital Goods & Manufacturing,65.9356074340417
+Telecom,Retail,65.91675961486577
+Retail,Telecom,65.91675961486577
+Tourism & Hospitality,Food Processing,65.90224140958566
+Food Processing,Tourism & Hospitality,65.90224140958566
+Instrumentation,Apparel,65.90099236506565
+Apparel,Instrumentation,65.90099236506565
+"Water Supply, Sewerage, Waste Management & Remediation activities",Sports,65.85501094576261
+Sports,"Water Supply, Sewerage, Waste Management & Remediation activities",65.85501094576261
+Food Processing,"Education, Training & Research",65.83807478390266
+"Education, Training & Research",Food Processing,65.83807478390266
+Leather,Agriculture,65.82596298245012
+Agriculture,Leather,65.82596298245012
+"Water Supply, Sewerage, Waste Management & Remediation activities",Automotive,65.82223781860606
+Automotive,"Water Supply, Sewerage, Waste Management & Remediation activities",65.82223781860606
+Iron and Steel,Telecom,65.79211133943569
+Telecom,Iron and Steel,65.79211133943569
+Healthcare,Logistics,65.78861071633617
+Logistics,Healthcare,65.78861071633617
+Instrumentation,Plumbing,65.78777453757984
+Plumbing,Instrumentation,65.78777453757984
+Tourism & Hospitality,Leather,65.77123036053706
+Leather,Tourism & Hospitality,65.77123036053706
+Logistics,Retail,65.76349916251053
+Retail,Logistics,65.76349916251053
+Information Technology Sector,Management,65.76328676994727
+Management,Information Technology Sector,65.76328676994727
+Management,Domestic Workers,65.75335533839386
+Domestic Workers,Management,65.75335533839386
+PwD,Cross Sectoral,65.7284072213198
+Cross Sectoral,PwD,65.7284072213198
+Automotive,"Education, Training & Research",65.72738775313859
+"Education, Training & Research",Automotive,65.72738775313859
+Management,PwD,65.7165512025441
+PwD,Management,65.7165512025441
+Infrastructure Equipment,Furniture & Fittings,65.71447890877637
+Furniture & Fittings,Infrastructure Equipment,65.71447890877637
+Management,BFSI,65.70256862156873
+BFSI,Management,65.70256862156873
+Automotive,Hydrocarbon,65.68859459836092
+Hydrocarbon,Automotive,65.68859459836092
+Sports,Hydrocarbon,65.67192289778062
+Hydrocarbon,Sports,65.67192289778062
+Plumbing,Food Processing,65.67000111653603
+Food Processing,Plumbing,65.67000111653603
+Telecom,Electronics,65.66582232386686
+Electronics,Telecom,65.66582232386686
+PwD,Furniture & Fittings,65.63324032771601
+Furniture & Fittings,PwD,65.63324032771601
+Automotive,Leather,65.62215424306788
+Leather,Automotive,65.62215424306788
+Hydrocarbon,Instrumentation,65.60760724048527
+Instrumentation,Hydrocarbon,65.60760724048527
+Iron and Steel,"Water Supply, Sewerage, Waste Management & Remediation activities",65.6010825293182
+"Water Supply, Sewerage, Waste Management & Remediation activities",Iron and Steel,65.6010825293182
+Leather,Green Jobs,65.5611430520655
+Green Jobs,Leather,65.5611430520655
+"Education, Training & Research",Iron and Steel,65.52953090123025
+Iron and Steel,"Education, Training & Research",65.52953090123025
+Cross Sectoral,Domestic Workers,65.51760603818626
+Domestic Workers,Cross Sectoral,65.51760603818626
+"Education, Training & Research",Hydrocarbon,65.47411846023132
+Hydrocarbon,"Education, Training & Research",65.47411846023132
+Furniture & Fittings,Handicrafts and Carpet,65.46503728654507
+Handicrafts and Carpet,Furniture & Fittings,65.46503728654507
+PwD,Information Technology Sector,65.46143713431056
+Information Technology Sector,PwD,65.46143713431056
+"Education, Training & Research",Furniture & Fittings,65.45770952185592
+Furniture & Fittings,"Education, Training & Research",65.45770952185592
+Furniture & Fittings,Construction,65.44971812983971
+Construction,Furniture & Fittings,65.44971812983971
+Domestic Workers,Information Technology Sector,65.43975216525097
+Information Technology Sector,Domestic Workers,65.43975216525097
+Information Technology Sector,Capital Goods & Manufacturing,65.43143120654416
+Capital Goods & Manufacturing,Information Technology Sector,65.43143120654416
+Life Sciences,Retail,65.422319692301
+Retail,Life Sciences,65.422319692301
+Logistics,Iron and Steel,65.42196317133734
+Iron and Steel,Logistics,65.42196317133734
+Iron and Steel,Life Sciences,65.41625141711872
+Life Sciences,Iron and Steel,65.41625141711872
+Information Technology Sector,Tourism & Hospitality,65.3739348506525
+Tourism & Hospitality,Information Technology Sector,65.3739348506525
+Agriculture,Domestic Workers,65.37278872881613
+Domestic Workers,Agriculture,65.37278872881613
+Capital Goods & Manufacturing,Construction,65.36840371997357
+Construction,Capital Goods & Manufacturing,65.36840371997357
+Healthcare,Food Processing,65.36234462871595
+Food Processing,Healthcare,65.36234462871595
+"Water Supply, Sewerage, Waste Management & Remediation activities",Infrastructure Equipment,65.35721763261519
+Infrastructure Equipment,"Water Supply, Sewerage, Waste Management & Remediation activities",65.35721763261519
+Wood & Carpentry,Media & Entertainment,65.32152453113687
+Media & Entertainment,Wood & Carpentry,65.32152453113687
+Automotive,Healthcare,65.32075943458312
+Healthcare,Automotive,65.32075943458312
+Domestic Workers,Infrastructure Equipment,65.30941561434915
+Infrastructure Equipment,Domestic Workers,65.30941561434915
+Agriculture,Furniture & Fittings,65.3094122435565
+Furniture & Fittings,Agriculture,65.3094122435565
+Agriculture,Infrastructure Equipment,65.30862421506194
+Infrastructure Equipment,Agriculture,65.30862421506194
+PwD,Infrastructure Equipment,65.3032361633927
+Infrastructure Equipment,PwD,65.3032361633927
+Plumbing,Iron and Steel,65.30187715904427
+Iron and Steel,Plumbing,65.30187715904427
+Infrastructure Equipment,Automotive,65.29622134327643
+Automotive,Infrastructure Equipment,65.29622134327643
+Tourism & Hospitality,Iron and Steel,65.29145167428463
+Iron and Steel,Tourism & Hospitality,65.29145167428463
+Food Processing,Rubber,65.28517841853007
+Rubber,Food Processing,65.28517841853007
+"Education, Training & Research",Leather,65.27778834743297
+Leather,"Education, Training & Research",65.27778834743297
+Furniture & Fittings,Life Sciences,65.25677982738287
+Life Sciences,Furniture & Fittings,65.25677982738287
+Power,Wood & Carpentry,65.25001129061519
+Wood & Carpentry,Power,65.25001129061519
+Green Jobs,Wood & Carpentry,65.2394385986737
+Wood & Carpentry,Green Jobs,65.2394385986737
+Instrumentation,Green Jobs,65.22386158965594
+Green Jobs,Instrumentation,65.22386158965594
+Logistics,Information Technology Sector,65.20338145450036
+Information Technology Sector,Logistics,65.20338145450036
+Plumbing,Domestic Workers,65.1740447435526
+Domestic Workers,Plumbing,65.1740447435526
+Capital Goods & Manufacturing,BFSI,65.16064187855443
+BFSI,Capital Goods & Manufacturing,65.16064187855443
+Telecom,Leather,65.15453029071558
+Leather,Telecom,65.15453029071558
+"Water Supply, Sewerage, Waste Management & Remediation activities",Logistics,65.1028075219639
+Logistics,"Water Supply, Sewerage, Waste Management & Remediation activities",65.1028075219639
+Mining,Construction,65.09851418115136
+Construction,Mining,65.09851418115136
+Construction,"Water Supply, Sewerage, Waste Management & Remediation activities",65.092704172225
+"Water Supply, Sewerage, Waste Management & Remediation activities",Construction,65.092704172225
+Green Jobs,Automotive,65.07414441770067
+Automotive,Green Jobs,65.07414441770067
+Construction,Infrastructure Equipment,65.06421726285738
+Infrastructure Equipment,Construction,65.06421726285738
+Furniture & Fittings,Automotive,65.05031908239783
+Automotive,Furniture & Fittings,65.05031908239783
+Apparel,BFSI,65.03654215521482
+BFSI,Apparel,65.03654215521482
+Food Processing,"Water Supply, Sewerage, Waste Management & Remediation activities",64.98058694306121
+"Water Supply, Sewerage, Waste Management & Remediation activities",Food Processing,64.98058694306121
+Healthcare,Green Jobs,64.9754324357175
+Green Jobs,Healthcare,64.9754324357175
+Wood & Carpentry,Electronics,64.91182904712758
+Electronics,Wood & Carpentry,64.91182904712758
+Instrumentation,PwD,64.91093596421415
+PwD,Instrumentation,64.91093596421415
+PwD,Agriculture,64.85042044150765
+Agriculture,PwD,64.85042044150765
+Tourism & Hospitality,Hydrocarbon,64.83828480321402
+Hydrocarbon,Tourism & Hospitality,64.83828480321402
+Agriculture,"Education, Training & Research",64.81962931420891
+"Education, Training & Research",Agriculture,64.81962931420891
+Leather,Life Sciences,64.81865031112358
+Life Sciences,Leather,64.81865031112358
+Retail,Management,64.81511517333745
+Management,Retail,64.81511517333745
+Iron and Steel,Instrumentation,64.7845116107511
+Instrumentation,Iron and Steel,64.7845116107511
+Construction,Iron and Steel,64.7811360787358
+Iron and Steel,Construction,64.7811360787358
+Cross Sectoral,Telecom,64.77865055292503
+Telecom,Cross Sectoral,64.77865055292503
+Apparel,Plumbing,64.77715338726159
+Plumbing,Apparel,64.77715338726159
+Wood & Carpentry,Cross Sectoral,64.75897421551247
+Cross Sectoral,Wood & Carpentry,64.75897421551247
+"Education, Training & Research","Water Supply, Sewerage, Waste Management & Remediation activities",64.74442898433067
+"Water Supply, Sewerage, Waste Management & Remediation activities","Education, Training & Research",64.74442898433067
+BFSI,Power,64.7190001757589
+Power,BFSI,64.7190001757589
+Iron and Steel,Agriculture,64.71434755480205
+Agriculture,Iron and Steel,64.71434755480205
+Electronics,Power,64.70336890389345
+Power,Electronics,64.70336890389345
+Life Sciences,Instrumentation,64.69881692695348
+Instrumentation,Life Sciences,64.69881692695348
+Furniture & Fittings,Tourism & Hospitality,64.67919423278464
+Tourism & Hospitality,Furniture & Fittings,64.67919423278464
+Hydrocarbon,Wood & Carpentry,64.65776925575081
+Wood & Carpentry,Hydrocarbon,64.65776925575081
+IT-ITeS,Information Technology Sector,64.65718640485179
+Information Technology Sector,IT-ITeS,64.65718640485179
+Mining,Wood & Carpentry,64.63402165759688
+Wood & Carpentry,Mining,64.63402165759688
+Handicrafts and Carpet,Agriculture,64.616581572213
+Agriculture,Handicrafts and Carpet,64.616581572213
+Construction,Domestic Workers,64.59308934757249
+Domestic Workers,Construction,64.59308934757249
+Retail,Power,64.57618472716996
+Power,Retail,64.57618472716996
+Handicrafts and Carpet,Domestic Workers,64.56686943929994
+Domestic Workers,Handicrafts and Carpet,64.56686943929994
+Tourism & Hospitality,"Water Supply, Sewerage, Waste Management & Remediation activities",64.56151434390212
+"Water Supply, Sewerage, Waste Management & Remediation activities",Tourism & Hospitality,64.56151434390212
+Healthcare,Information Technology Sector,64.54037540526683
+Information Technology Sector,Healthcare,64.54037540526683
+Green Jobs,Tourism & Hospitality,64.53527092279728
+Tourism & Hospitality,Green Jobs,64.53527092279728
+Information Technology Sector,Apparel,64.53112604481704
+Apparel,Information Technology Sector,64.53112604481704
+Telecom,Management,64.52912160347076
+Management,Telecom,64.52912160347076
+Handicrafts and Carpet,Capital Goods & Manufacturing,64.52353195405232
+Capital Goods & Manufacturing,Handicrafts and Carpet,64.52353195405232
+Capital Goods & Manufacturing,Management,64.49149122666059
+Management,Capital Goods & Manufacturing,64.49149122666059
+Rubber,Leather,64.47997849029558
+Leather,Rubber,64.47997849029558
+Power,Rubber,64.47923101402726
+Rubber,Power,64.47923101402726
+Automotive,Instrumentation,64.47837651023846
+Instrumentation,Automotive,64.47837651023846
+Instrumentation,Domestic Workers,64.45783684599616
+Domestic Workers,Instrumentation,64.45783684599616
+Capital Goods,Capital Goods & Manufacturing,64.45701612942436
+Capital Goods & Manufacturing,Capital Goods,64.45701612942436
+Management,Life Sciences,64.4376974259639
+Life Sciences,Management,64.4376974259639
+Sports,Infrastructure Equipment,64.43167042495025
+Infrastructure Equipment,Sports,64.43167042495025
+Wood & Carpentry,Handicrafts and Carpet,64.42526378454137
+Handicrafts and Carpet,Wood & Carpentry,64.42526378454137
+Handicrafts and Carpet,Infrastructure Equipment,64.41716137884775
+Infrastructure Equipment,Handicrafts and Carpet,64.41716137884775
+Logistics,Leather,64.41053540439256
+Leather,Logistics,64.41053540439256
+Life Sciences,Information Technology Sector,64.3993420068583
+Information Technology Sector,Life Sciences,64.3993420068583
+Plumbing,PwD,64.39701561390888
+PwD,Plumbing,64.39701561390888
+Hydrocarbon,Healthcare,64.38858402199173
+Healthcare,Hydrocarbon,64.38858402199173
+Cross Sectoral,Apparel,64.38414970078428
+Apparel,Cross Sectoral,64.38414970078428
+Agriculture,Capital Goods & Manufacturing,64.37079489611213
+Capital Goods & Manufacturing,Agriculture,64.37079489611213
+Logistics,Cross Sectoral,64.36860366481908
+Cross Sectoral,Logistics,64.36860366481908
+Infrastructure Equipment,Logistics,64.36077169029029
+Logistics,Infrastructure Equipment,64.36077169029029
+Apparel,Rubber,64.35853106378629
+Rubber,Apparel,64.35853106378629
+Construction,PwD,64.35590276434466
+PwD,Construction,64.35590276434466
+Leather,Retail,64.34946140335848
+Retail,Leather,64.34946140335848
+"Education, Training & Research",Construction,64.33614418905518
+Construction,"Education, Training & Research",64.33614418905518
+Management,Healthcare,64.33197058830805
+Healthcare,Management,64.33197058830805
+Management,Logistics,64.32514919480029
+Logistics,Management,64.32514919480029
+Retail,Green Jobs,64.3241295452671
+Green Jobs,Retail,64.3241295452671
+Logistics,Agriculture,64.32397832122454
+Agriculture,Logistics,64.32397832122454
+Agriculture,"Water Supply, Sewerage, Waste Management & Remediation activities",64.32336461753145
+"Water Supply, Sewerage, Waste Management & Remediation activities",Agriculture,64.32336461753145
+Plumbing,Furniture & Fittings,64.31102546906617
+Furniture & Fittings,Plumbing,64.31102546906617
+Aerospace and Aviation,Power,64.30983736053976
+Power,Aerospace and Aviation,64.30983736053976
+Capital Goods & Manufacturing,Plumbing,64.27720869576977
+Plumbing,Capital Goods & Manufacturing,64.27720869576977
+Leather,Healthcare,64.26945575998501
+Healthcare,Leather,64.26945575998501
+Wood & Carpentry,IT-ITeS,64.2693888906399
+IT-ITeS,Wood & Carpentry,64.2693888906399
+Infrastructure Equipment,Rubber,64.26608226514792
+Rubber,Infrastructure Equipment,64.26608226514792
+Green Jobs,Construction,64.25562447810232
+Construction,Green Jobs,64.25562447810232
+Food Processing,Construction,64.25259356585782
+Construction,Food Processing,64.25259356585782
+Handicrafts and Carpet,Iron and Steel,64.24826805548692
+Iron and Steel,Handicrafts and Carpet,64.24826805548692
+Plumbing,Sports,64.24500963810364
+Sports,Plumbing,64.24500963810364
+Power,Handicrafts and Carpet,64.22015953128422
+Handicrafts and Carpet,Power,64.22015953128422
+Healthcare,Furniture & Fittings,64.20846760279768
+Furniture & Fittings,Healthcare,64.20846760279768
+Electronics,Apparel,64.20818561776015
+Apparel,Electronics,64.20818561776015
+PwD,Electronics,64.20649062016568
+Electronics,PwD,64.20649062016568
+Handicrafts and Carpet,PwD,64.20022801876578
+PwD,Handicrafts and Carpet,64.20022801876578
+Cross Sectoral,Iron and Steel,64.179819977669
+Iron and Steel,Cross Sectoral,64.179819977669
+Hydrocarbon,Furniture & Fittings,64.17880699461516
+Furniture & Fittings,Hydrocarbon,64.17880699461516
+Capital Goods & Manufacturing,Electronics,64.14870645210274
+Electronics,Capital Goods & Manufacturing,64.14870645210274
+Retail,Automotive,64.13770039976464
+Automotive,Retail,64.13770039976464
+Aerospace and Aviation,Apparel,64.1253497527886
+Apparel,Aerospace and Aviation,64.1253497527886
+Iron and Steel,Healthcare,64.11347933546816
+Healthcare,Iron and Steel,64.11347933546816
+Cross Sectoral,Automotive,64.08262696666424
+Automotive,Cross Sectoral,64.08262696666424
+Tourism & Hospitality,Infrastructure Equipment,64.07448482789516
+Infrastructure Equipment,Tourism & Hospitality,64.07448482789516
+Mining,Handicrafts and Carpet,64.06423265741117
+Handicrafts and Carpet,Mining,64.06423265741117
+Electronics,Instrumentation,64.06413378348303
+Instrumentation,Electronics,64.06413378348303
+Leather,Construction,64.03371042028417
+Construction,Leather,64.03371042028417
+Handicrafts and Carpet,Green Jobs,64.03030006986654
+Green Jobs,Handicrafts and Carpet,64.03030006986654
+Cross Sectoral,Sports,64.02861913219873
+Sports,Cross Sectoral,64.02861913219873
+Hydrocarbon,Leather,64.02409501084114
+Leather,Hydrocarbon,64.02409501084114
+Management,Tourism & Hospitality,64.01924041283152
+Tourism & Hospitality,Management,64.01924041283152
+Leather,Instrumentation,64.0124836858143
+Instrumentation,Leather,64.0124836858143
+IT-ITeS,Telecom,63.96564774439273
+Telecom,IT-ITeS,63.96564774439273
+Furniture & Fittings,Instrumentation,63.95136982007096
+Instrumentation,Furniture & Fittings,63.95136982007096
+Green Jobs,Information Technology Sector,63.9451982451098
+Information Technology Sector,Green Jobs,63.9451982451098
+Rubber,Mining,63.91741234895597
+Mining,Rubber,63.91741234895597
+Instrumentation,Logistics,63.89495233503069
+Logistics,Instrumentation,63.89495233503069
+Plumbing,Logistics,63.89136850231467
+Logistics,Plumbing,63.89136850231467
+Mining,Retail,63.8888336574178
+Retail,Mining,63.8888336574178
+Electronics,Information Technology Sector,63.85414164222789
+Information Technology Sector,Electronics,63.85414164222789
+Sports,Agriculture,63.83926841000223
+Agriculture,Sports,63.83926841000223
+Construction,Cross Sectoral,63.83773809578812
+Cross Sectoral,Construction,63.83773809578812
+Instrumentation,"Education, Training & Research",63.795034173342586
+"Education, Training & Research",Instrumentation,63.795034173342586
+Instrumentation,Sports,63.77960093401743
+Sports,Instrumentation,63.77960093401743
+Sports,Electronics,63.773496007815076
+Electronics,Sports,63.773496007815076
+Retail,Furniture & Fittings,63.73985239143295
+Furniture & Fittings,Retail,63.73985239143295
+Wood & Carpentry,Construction,63.737643097921634
+Construction,Wood & Carpentry,63.737643097921634
+Life Sciences,Agriculture,63.7332890999833
+Agriculture,Life Sciences,63.7332890999833
+Green Jobs,Electronics,63.727905605226525
+Electronics,Green Jobs,63.727905605226525
+"Education, Training & Research",Handicrafts and Carpet,63.725496370835664
+Handicrafts and Carpet,"Education, Training & Research",63.725496370835664
+Wood & Carpentry,Food Processing,63.716024091342156
+Food Processing,Wood & Carpentry,63.716024091342156
+Plumbing,Agriculture,63.70338515702336
+Agriculture,Plumbing,63.70338515702336
+Aerospace and Aviation,Mining,63.70334627126425
+Mining,Aerospace and Aviation,63.70334627126425
+Cross Sectoral,Green Jobs,63.67823498284873
+Green Jobs,Cross Sectoral,63.67823498284873
+Sports,Media & Entertainment,63.66821881574573
+Media & Entertainment,Sports,63.66821881574573
+Agriculture,Telecom,63.66307277512437
+Telecom,Agriculture,63.66307277512437
+Wood & Carpentry,Instrumentation,63.66170497754062
+Instrumentation,Wood & Carpentry,63.66170497754062
+Construction,Telecom,63.64674508694899
+Telecom,Construction,63.64674508694899
+Rubber,Iron and Steel,63.64321700983568
+Iron and Steel,Rubber,63.64321700983568
+Tourism & Hospitality,Handicrafts and Carpet,63.63220336908214
+Handicrafts and Carpet,Tourism & Hospitality,63.63220336908214
+Cross Sectoral,Healthcare,63.605935087225305
+Healthcare,Cross Sectoral,63.605935087225305
+Hydrocarbon,Agriculture,63.592444986477815
+Agriculture,Hydrocarbon,63.592444986477815
+Construction,Plumbing,63.57125602645581
+Plumbing,Construction,63.57125602645581
+Food Processing,Retail,63.53359304723011
+Retail,Food Processing,63.53359304723011
+Domestic Workers,Electronics,63.51525927103544
+Electronics,Domestic Workers,63.51525927103544
+BFSI,Automotive,63.50775066930675
+Automotive,BFSI,63.50775066930675
+Furniture & Fittings,BFSI,63.486552243704736
+BFSI,Furniture & Fittings,63.486552243704736
+Automotive,Plumbing,63.48115752492576
+Plumbing,Automotive,63.48115752492576
+Construction,Sports,63.4649397092802
+Sports,Construction,63.4649397092802
+Food Processing,Cross Sectoral,63.45341073892171
+Cross Sectoral,Food Processing,63.45341073892171
+Cross Sectoral,Furniture & Fittings,63.44258391336357
+Furniture & Fittings,Cross Sectoral,63.44258391336357
+Aerospace and Aviation,PwD,63.422469666251274
+PwD,Aerospace and Aviation,63.422469666251274
+Aerospace and Aviation,Capital Goods & Manufacturing,63.418681380325026
+Capital Goods & Manufacturing,Aerospace and Aviation,63.418681380325026
+Information Technology Sector,Power,63.41773226852817
+Power,Information Technology Sector,63.41773226852817
+Construction,Agriculture,63.41519774860813
+Agriculture,Construction,63.41519774860813
+Instrumentation,Tourism & Hospitality,63.41081949922271
+Tourism & Hospitality,Instrumentation,63.41081949922271
+Information Technology Sector,Instrumentation,63.38286540893103
+Instrumentation,Information Technology Sector,63.38286540893103
+Plumbing,Leather,63.36061654492611
+Leather,Plumbing,63.36061654492611
+Healthcare,Agriculture,63.320755367042445
+Agriculture,Healthcare,63.320755367042445
+"Water Supply, Sewerage, Waste Management & Remediation activities",Instrumentation,63.31793230955987
+Instrumentation,"Water Supply, Sewerage, Waste Management & Remediation activities",63.31793230955987
+Life Sciences,Infrastructure Equipment,63.30917688849079
+Infrastructure Equipment,Life Sciences,63.30917688849079
+Iron and Steel,Retail,63.276527091223855
+Retail,Iron and Steel,63.276527091223855
+Instrumentation,BFSI,63.25295318007738
+BFSI,Instrumentation,63.25295318007738
+Information Technology Sector,Furniture & Fittings,63.242409846623175
+Furniture & Fittings,Information Technology Sector,63.242409846623175
+Plumbing,Life Sciences,63.21667174964019
+Life Sciences,Plumbing,63.21667174964019
+Rubber,Agriculture,63.211517007561724
+Agriculture,Rubber,63.211517007561724
+Tourism & Hospitality,Electronics,63.211388762964496
+Electronics,Tourism & Hospitality,63.211388762964496
+Tourism & Hospitality,Construction,63.206694423535765
+Construction,Tourism & Hospitality,63.206694423535765
+Automotive,Construction,63.18625289534538
+Construction,Automotive,63.18625289534538
+Management,Power,63.17634921586654
+Power,Management,63.17634921586654
+Electronics,Life Sciences,63.175851519589976
+Life Sciences,Electronics,63.175851519589976
+Construction,Handicrafts and Carpet,63.17027596381288
+Handicrafts and Carpet,Construction,63.17027596381288
+Automotive,Agriculture,63.15784829633127
+Agriculture,Automotive,63.15784829633127
+Hydrocarbon,Construction,63.15176879887794
+Construction,Hydrocarbon,63.15176879887794
+Mining,BFSI,63.13613194337304
+BFSI,Mining,63.13613194337304
+Electronics,Retail,63.12017452301271
+Retail,Electronics,63.12017452301271
+Sports,Handicrafts and Carpet,63.11931304455801
+Handicrafts and Carpet,Sports,63.11931304455801
+Information Technology Sector,Automotive,63.11860741403456
+Automotive,Information Technology Sector,63.11860741403456
+Agriculture,Tourism & Hospitality,63.0892354541489
+Tourism & Hospitality,Agriculture,63.0892354541489
+"Education, Training & Research",Electronics,63.087529932391924
+Electronics,"Education, Training & Research",63.087529932391924
+Automotive,Electronics,63.059221778342476
+Electronics,Automotive,63.059221778342476
+Domestic Workers,Aerospace and Aviation,63.05566005650542
+Aerospace and Aviation,Domestic Workers,63.05566005650542
+Food Processing,Electronics,63.04101106464274
+Electronics,Food Processing,63.04101106464274
+Plumbing,Cross Sectoral,63.03995836810315
+Cross Sectoral,Plumbing,63.03995836810315
+Food Processing,Aerospace and Aviation,63.03844473000182
+Aerospace and Aviation,Food Processing,63.03844473000182
+Tourism & Hospitality,Plumbing,63.00578867917805
+Plumbing,Tourism & Hospitality,63.00578867917805
+Green Jobs,Rubber,62.998178551631156
+Rubber,Green Jobs,62.998178551631156
+Plumbing,"Education, Training & Research",62.98241488592243
+"Education, Training & Research",Plumbing,62.98241488592243
+Management,Apparel,62.97773390408092
+Apparel,Management,62.97773390408092
+Instrumentation,Healthcare,62.96015391271202
+Healthcare,Instrumentation,62.96015391271202
+Mining,Electronics,62.956026979702
+Electronics,Mining,62.956026979702
+IT-ITeS,Life Sciences,62.941712159806094
+Life Sciences,IT-ITeS,62.941712159806094
+Construction,Life Sciences,62.94135154153927
+Life Sciences,Construction,62.94135154153927
+PwD,Media & Entertainment,62.92884390669508
+Media & Entertainment,PwD,62.92884390669508
+"Education, Training & Research",Media & Entertainment,62.928625502862
+Media & Entertainment,"Education, Training & Research",62.928625502862
+Hydrocarbon,Retail,62.90503872213392
+Retail,Hydrocarbon,62.90503872213392
+IT-ITeS,"Education, Training & Research",62.88920543834939
+"Education, Training & Research",IT-ITeS,62.88920543834939
+Retail,Media & Entertainment,62.88032551125168
+Media & Entertainment,Retail,62.88032551125168
+Plumbing,Healthcare,62.85245733059985
+Healthcare,Plumbing,62.85245733059985
+Construction,Healthcare,62.84886805750206
+Healthcare,Construction,62.84886805750206
+Aerospace and Aviation,Infrastructure Equipment,62.84256182145014
+Infrastructure Equipment,Aerospace and Aviation,62.84256182145014
+Aerospace and Aviation,"Education, Training & Research",62.8281222490656
+"Education, Training & Research",Aerospace and Aviation,62.8281222490656
+"Education, Training & Research",Infrastructure Equipment,62.81690248866882
+Infrastructure Equipment,"Education, Training & Research",62.81690248866882
+Telecom,Aerospace and Aviation,62.81658171726259
+Aerospace and Aviation,Telecom,62.81658171726259
+Logistics,IT-ITeS,62.76704834416231
+IT-ITeS,Logistics,62.76704834416231
+Tourism & Hospitality,Aerospace and Aviation,62.73634919696645
+Aerospace and Aviation,Tourism & Hospitality,62.73634919696645
+Food Processing,BFSI,62.73543340167886
+BFSI,Food Processing,62.73543340167886
+Management,Furniture & Fittings,62.73399257368198
+Furniture & Fittings,Management,62.73399257368198
+Iron and Steel,Electronics,62.728057062604606
+Electronics,Iron and Steel,62.728057062604606
+Infrastructure Equipment,Healthcare,62.711472948617846
+Healthcare,Infrastructure Equipment,62.711472948617846
+BFSI,Hydrocarbon,62.710433332798445
+Hydrocarbon,BFSI,62.710433332798445
+IT-ITeS,BFSI,62.696360184164114
+BFSI,IT-ITeS,62.696360184164114
+Construction,Logistics,62.67675891090185
+Logistics,Construction,62.67675891090185
+Plumbing,Wood & Carpentry,62.66872926008287
+Wood & Carpentry,Plumbing,62.66872926008287
+Rubber,Handicrafts and Carpet,62.66474767938961
+Handicrafts and Carpet,Rubber,62.66474767938961
+Information Technology Sector,Food Processing,62.63010567458018
+Food Processing,Information Technology Sector,62.63010567458018
+IT-ITeS,Capital Goods & Manufacturing,62.61394674392899
+Capital Goods & Manufacturing,IT-ITeS,62.61394674392899
+IT-ITeS,Sports,62.60319651641771
+Sports,IT-ITeS,62.60319651641771
+Furniture & Fittings,Rubber,62.589280309365826
+Rubber,Furniture & Fittings,62.589280309365826
+Aerospace and Aviation,Wood & Carpentry,62.57578500811171
+Wood & Carpentry,Aerospace and Aviation,62.57578500811171
+Media & Entertainment,Domestic Workers,62.566513718060214
+Domestic Workers,Media & Entertainment,62.566513718060214
+Furniture & Fittings,Electronics,62.547447512317106
+Electronics,Furniture & Fittings,62.547447512317106
+Electronics,Logistics,62.53166926556278
+Logistics,Electronics,62.53166926556278
+Aerospace and Aviation,"Water Supply, Sewerage, Waste Management & Remediation activities",62.519477188936214
+"Water Supply, Sewerage, Waste Management & Remediation activities",Aerospace and Aviation,62.519477188936214
+Rubber,Capital Goods & Manufacturing,62.50986070649606
+Capital Goods & Manufacturing,Rubber,62.50986070649606
+Handicrafts and Carpet,Retail,62.50149424937625
+Retail,Handicrafts and Carpet,62.50149424937625
+Beauty & Wellness,Beauty & Wellness,62.46486147283036
+Aerospace and Aviation,Logistics,62.46372038775151
+Logistics,Aerospace and Aviation,62.46372038775151
+Textile,Leather,62.45614526041548
+Leather,Textile,62.45614526041548
+"Water Supply, Sewerage, Waste Management & Remediation activities",Leather,62.4384237202036
+Leather,"Water Supply, Sewerage, Waste Management & Remediation activities",62.4384237202036
+Sports,Aerospace and Aviation,62.433664887162045
+Aerospace and Aviation,Sports,62.433664887162045
+Capital Goods,Power,62.42480533932917
+Power,Capital Goods,62.42480533932917
+Management,IT-ITeS,62.418688747795244
+IT-ITeS,Management,62.418688747795244
+Mining,Management,62.388603487187765
+Management,Mining,62.388603487187765
+Cross Sectoral,Tourism & Hospitality,62.38568058904473
+Tourism & Hospitality,Cross Sectoral,62.38568058904473
+Infrastructure Equipment,Electronics,62.383271383812705
+Electronics,Infrastructure Equipment,62.383271383812705
+Management,Automotive,62.381100006527575
+Automotive,Management,62.381100006527575
+Life Sciences,Aerospace and Aviation,62.38038177973897
+Aerospace and Aviation,Life Sciences,62.38038177973897
+Telecom,Handicrafts and Carpet,62.34196885259977
+Handicrafts and Carpet,Telecom,62.34196885259977
+Healthcare,Handicrafts and Carpet,62.33404665522354
+Handicrafts and Carpet,Healthcare,62.33404665522354
+Furniture & Fittings,Capital Goods,62.32410450896468
+Capital Goods,Furniture & Fittings,62.32410450896468
+Agriculture,Instrumentation,62.315699177933396
+Instrumentation,Agriculture,62.315699177933396
+Cross Sectoral,Information Technology Sector,62.294145915558346
+Information Technology Sector,Cross Sectoral,62.294145915558346
+IT-ITeS,PwD,62.28271057496521
+PwD,IT-ITeS,62.28271057496521
+Leather,Electronics,62.282196663919386
+Electronics,Leather,62.282196663919386
+Aerospace and Aviation,Furniture & Fittings,62.27281311871689
+Furniture & Fittings,Aerospace and Aviation,62.27281311871689
+Green Jobs,BFSI,62.25499106630997
+BFSI,Green Jobs,62.25499106630997
+Automotive,Handicrafts and Carpet,62.25387885822121
+Handicrafts and Carpet,Automotive,62.25387885822121
+Management,Green Jobs,62.25109964358175
+Green Jobs,Management,62.25109964358175
+Retail,Instrumentation,62.21135985096233
+Instrumentation,Retail,62.21135985096233
+Aerospace and Aviation,Automotive,62.20866422670235
+Automotive,Aerospace and Aviation,62.20866422670235
+Instrumentation,Construction,62.17383555536996
+Construction,Instrumentation,62.17383555536996
+Electronics,Healthcare,62.14153674974391
+Healthcare,Electronics,62.14153674974391
+BFSI,Leather,62.12572093054501
+Leather,BFSI,62.12572093054501
+Instrumentation,Cross Sectoral,62.10551918534501
+Cross Sectoral,Instrumentation,62.10551918534501
+Leather,Aerospace and Aviation,62.09205559180055
+Aerospace and Aviation,Leather,62.09205559180055
+Infrastructure Equipment,Wood & Carpentry,62.091703661072124
+Wood & Carpentry,Infrastructure Equipment,62.091703661072124
+Rubber,PwD,62.079457029600675
+PwD,Rubber,62.079457029600675
+Apparel,Capital Goods,62.05813410907762
+Capital Goods,Apparel,62.05813410907762
+Plumbing,Retail,62.054358605847106
+Retail,Plumbing,62.054358605847106
+"Water Supply, Sewerage, Waste Management & Remediation activities",Rubber,62.03785773414491
+Rubber,"Water Supply, Sewerage, Waste Management & Remediation activities",62.03785773414491
+Hydrocarbon,Rubber,62.01469130669007
+Rubber,Hydrocarbon,62.01469130669007
+Aerospace and Aviation,Iron and Steel,62.00547011896651
+Iron and Steel,Aerospace and Aviation,62.00547011896651
+Information Technology Sector,Mining,61.99983358793632
+Mining,Information Technology Sector,61.99983358793632
+Aerospace and Aviation,Healthcare,61.98711415312391
+Healthcare,Aerospace and Aviation,61.98711415312391
+Textile,Apparel,61.969995563188874
+Apparel,Textile,61.969995563188874
+Food Processing,Management,61.96749623247289
+Management,Food Processing,61.96749623247289
+Cross Sectoral,Infrastructure Equipment,61.96526104167184
+Infrastructure Equipment,Cross Sectoral,61.96526104167184
+BFSI,Electronics,61.96378063156529
+Electronics,BFSI,61.96378063156529
+Electronics,Hydrocarbon,61.91858083521111
+Hydrocarbon,Electronics,61.91858083521111
+Domestic Workers,Rubber,61.91777602323821
+Rubber,Domestic Workers,61.91777602323821
+Electronics,Plumbing,61.91722062003252
+Plumbing,Electronics,61.91722062003252
+Textile,Food Processing,61.89654912937544
+Food Processing,Textile,61.89654912937544
+Tourism & Hospitality,Media & Entertainment,61.87874132363429
+Media & Entertainment,Tourism & Hospitality,61.87874132363429
+BFSI,Cross Sectoral,61.87737483353623
+Cross Sectoral,BFSI,61.87737483353623
+Iron and Steel,Information Technology Sector,61.868022334259145
+Information Technology Sector,Iron and Steel,61.868022334259145
+Aerospace and Aviation,Hydrocarbon,61.86570607967835
+Hydrocarbon,Aerospace and Aviation,61.86570607967835
+Mining,Capital Goods,61.832831590648276
+Capital Goods,Mining,61.832831590648276
+Plumbing,Rubber,61.82840509004946
+Rubber,Plumbing,61.82840509004946
+Media & Entertainment,Capital Goods & Manufacturing,61.820459987111754
+Capital Goods & Manufacturing,Media & Entertainment,61.820459987111754
+Management,Hydrocarbon,61.810451034024354
+Hydrocarbon,Management,61.810451034024354
+Handicrafts and Carpet,Textile,61.80900892700232
+Textile,Handicrafts and Carpet,61.80900892700232
+Agriculture,Wood & Carpentry,61.80131350596035
+Wood & Carpentry,Agriculture,61.80131350596035
+Plumbing,Handicrafts and Carpet,61.78573197419052
+Handicrafts and Carpet,Plumbing,61.78573197419052
+Media & Entertainment,Information Technology Sector,61.7836888663442
+Information Technology Sector,Media & Entertainment,61.7836888663442
+Aerospace and Aviation,Green Jobs,61.76340072613852
+Green Jobs,Aerospace and Aviation,61.76340072613852
+Instrumentation,Handicrafts and Carpet,61.73723605316981
+Handicrafts and Carpet,Instrumentation,61.73723605316981
+BFSI,Iron and Steel,61.7350242391103
+Iron and Steel,BFSI,61.7350242391103
+Capital Goods,Food Processing,61.7222992689188
+Food Processing,Capital Goods,61.7222992689188
+Retail,Construction,61.69098085985631
+Construction,Retail,61.69098085985631
+Hydrocarbon,Information Technology Sector,61.65314948186601
+Information Technology Sector,Hydrocarbon,61.65314948186601
+Rubber,Instrumentation,61.649783001451226
+Instrumentation,Rubber,61.649783001451226
+Life Sciences,Rubber,61.58560119628735
+Rubber,Life Sciences,61.58560119628735
+Agriculture,Retail,61.548425202267914
+Retail,Agriculture,61.548425202267914
+Rubber,Telecom,61.49242446394998
+Telecom,Rubber,61.49242446394998
+Iron and Steel,Capital Goods,61.458343040513725
+Capital Goods,Iron and Steel,61.458343040513725
+Automotive,Rubber,61.45618382182114
+Rubber,Automotive,61.45618382182114
+"Water Supply, Sewerage, Waste Management & Remediation activities",Retail,61.43812055758439
+Retail,"Water Supply, Sewerage, Waste Management & Remediation activities",61.43812055758439
+Domestic Workers,IT-ITeS,61.42393109257831
+IT-ITeS,Domestic Workers,61.42393109257831
+Handicrafts and Carpet,Life Sciences,61.405255372882884
+Life Sciences,Handicrafts and Carpet,61.405255372882884
+Textile,Power,61.40253972620222
+Power,Textile,61.40253972620222
+Retail,Infrastructure Equipment,61.37924545176923
+Infrastructure Equipment,Retail,61.37924545176923
+Information Technology Sector,Leather,61.37236118289168
+Leather,Information Technology Sector,61.37236118289168
+Retail,IT-ITeS,61.36246706531587
+IT-ITeS,Retail,61.36246706531587
+Hydrocarbon,Handicrafts and Carpet,61.344062675766544
+Handicrafts and Carpet,Hydrocarbon,61.344062675766544
+Aerospace and Aviation,Agriculture,61.33694337505176
+Agriculture,Aerospace and Aviation,61.33694337505176
+"Water Supply, Sewerage, Waste Management & Remediation activities",Furniture & Fittings,61.3254943256282
+Furniture & Fittings,"Water Supply, Sewerage, Waste Management & Remediation activities",61.3254943256282
+Logistics,Rubber,61.287424060889514
+Rubber,Logistics,61.287424060889514
+Infrastructure Equipment,Capital Goods,61.27301380740862
+Capital Goods,Infrastructure Equipment,61.27301380740862
+Management,Instrumentation,61.272363680191354
+Instrumentation,Management,61.272363680191354
+IT-ITeS,Healthcare,61.23243426976389
+Healthcare,IT-ITeS,61.23243426976389
+Mining,Textile,61.207850007056166
+Textile,Mining,61.207850007056166
+Wood & Carpentry,Gem & Jewellery,61.194483365945906
+Gem & Jewellery,Wood & Carpentry,61.194483365945906
+Telecom,Media & Entertainment,61.17573039587298
+Media & Entertainment,Telecom,61.17573039587298
+Media & Entertainment,Healthcare,61.15665736895742
+Healthcare,Media & Entertainment,61.15665736895742
+BFSI,Plumbing,61.155787463554255
+Plumbing,BFSI,61.155787463554255
+Logistics,Handicrafts and Carpet,61.1413291497243
+Handicrafts and Carpet,Logistics,61.1413291497243
+Textile,Infrastructure Equipment,61.11480957098455
+Infrastructure Equipment,Textile,61.11480957098455
+Aerospace and Aviation,Instrumentation,61.11278576943381
+Instrumentation,Aerospace and Aviation,61.11278576943381
+Agriculture,Cross Sectoral,61.09826788163985
+Cross Sectoral,Agriculture,61.09826788163985
+Information Technology Sector,Plumbing,61.0893243376671
+Plumbing,Information Technology Sector,61.0893243376671
+IT-ITeS,Automotive,61.088381023947626
+Automotive,IT-ITeS,61.088381023947626
+Electronics,Management,61.07345452833044
+Management,Electronics,61.07345452833044
+Telecom,Capital Goods,61.02059562559026
+Capital Goods,Telecom,61.02059562559026
+"Education, Training & Research",Rubber,61.019508763004595
+Rubber,"Education, Training & Research",61.019508763004595
+Capital Goods,"Education, Training & Research",61.01007319970495
+"Education, Training & Research",Capital Goods,61.01007319970495
+Media & Entertainment,Apparel,60.979183163441455
+Apparel,Media & Entertainment,60.979183163441455
+PwD,Textile,60.977473737249376
+Textile,PwD,60.977473737249376
+Sports,Rubber,60.96316419199191
+Rubber,Sports,60.96316419199191
+Electronics,Cross Sectoral,60.92051742297865
+Cross Sectoral,Electronics,60.92051742297865
+Iron and Steel,Textile,60.91446156864676
+Textile,Iron and Steel,60.91446156864676
+IT-ITeS,Tourism & Hospitality,60.91117309975556
+Tourism & Hospitality,IT-ITeS,60.91117309975556
+Capital Goods,PwD,60.84933093081774
+PwD,Capital Goods,60.84933093081774
+Construction,Rubber,60.827194217445275
+Rubber,Construction,60.827194217445275
+Management,Cross Sectoral,60.82613199971495
+Cross Sectoral,Management,60.82613199971495
+Instrumentation,Capital Goods,60.809502098021305
+Capital Goods,Instrumentation,60.809502098021305
+Handicrafts and Carpet,"Water Supply, Sewerage, Waste Management & Remediation activities",60.796707405539706
+"Water Supply, Sewerage, Waste Management & Remediation activities",Handicrafts and Carpet,60.796707405539706
+Capital Goods,Leather,60.780914469908645
+Leather,Capital Goods,60.780914469908645
+Gem & Jewellery,Leather,60.77686741610911
+Leather,Gem & Jewellery,60.77686741610911
+Media & Entertainment,Furniture & Fittings,60.72055287651999
+Furniture & Fittings,Media & Entertainment,60.72055287651999
+Infrastructure Equipment,BFSI,60.71402546951567
+BFSI,Infrastructure Equipment,60.71402546951567
+Domestic Workers,Textile,60.71147117911892
+Textile,Domestic Workers,60.71147117911892
+"Water Supply, Sewerage, Waste Management & Remediation activities",Wood & Carpentry,60.70364475317422
+Wood & Carpentry,"Water Supply, Sewerage, Waste Management & Remediation activities",60.70364475317422
+IT-ITeS,Power,60.67902790897656
+Power,IT-ITeS,60.67902790897656
+Infrastructure Equipment,Information Technology Sector,60.665589074275346
+Information Technology Sector,Infrastructure Equipment,60.665589074275346
+Electronics,Construction,60.62994809791929
+Construction,Electronics,60.62994809791929
+Media & Entertainment,Logistics,60.625819303137305
+Logistics,Media & Entertainment,60.625819303137305
+Handicrafts and Carpet,Gem & Jewellery,60.62014293146124
+Gem & Jewellery,Handicrafts and Carpet,60.62014293146124
+Wood & Carpentry,Capital Goods,60.593065701030824
+Capital Goods,Wood & Carpentry,60.593065701030824
+Electronics,"Water Supply, Sewerage, Waste Management & Remediation activities",60.53476363049999
+"Water Supply, Sewerage, Waste Management & Remediation activities",Electronics,60.53476363049999
+Healthcare,Rubber,60.51134984866233
+Rubber,Healthcare,60.51134984866233
+BFSI,"Water Supply, Sewerage, Waste Management & Remediation activities",60.508626968374635
+"Water Supply, Sewerage, Waste Management & Remediation activities",BFSI,60.508626968374635
+Retail,Aerospace and Aviation,60.49131608176568
+Aerospace and Aviation,Retail,60.49131608176568
+Rubber,Tourism & Hospitality,60.48584806554
+Tourism & Hospitality,Rubber,60.48584806554
+Apparel,Gem & Jewellery,60.48016764380848
+Gem & Jewellery,Apparel,60.48016764380848
+Plumbing,Aerospace and Aviation,60.45724573235631
+Aerospace and Aviation,Plumbing,60.45724573235631
+Mining,Media & Entertainment,60.42844121783725
+Media & Entertainment,Mining,60.42844121783725
+Management,Plumbing,60.41965769079998
+Plumbing,Management,60.41965769079998
+BFSI,Construction,60.411692403517065
+Construction,BFSI,60.411692403517065
+Media & Entertainment,BFSI,60.407009517237384
+BFSI,Media & Entertainment,60.407009517237384
+Iron and Steel,Management,60.391345723946046
+Management,Iron and Steel,60.391345723946046
+Furniture & Fittings,IT-ITeS,60.38993879355566
+IT-ITeS,Furniture & Fittings,60.38993879355566
+Electronics,IT-ITeS,60.35996308477589
+IT-ITeS,Electronics,60.35996308477589
+Media & Entertainment,Leather,60.352129697046585
+Leather,Media & Entertainment,60.352129697046585
+Rubber,Wood & Carpentry,60.33342235344684
+Wood & Carpentry,Rubber,60.33342235344684
+Leather,Management,60.3329496081394
+Management,Leather,60.3329496081394
+Construction,Aerospace and Aviation,60.30683410912868
+Aerospace and Aviation,Construction,60.30683410912868
+Automotive,Capital Goods,60.25718861797207
+Capital Goods,Automotive,60.25718861797207
+Green Jobs,Media & Entertainment,60.25250198473676
+Media & Entertainment,Green Jobs,60.25250198473676
+Electronics,Handicrafts and Carpet,60.24715276409154
+Handicrafts and Carpet,Electronics,60.24715276409154
+Aerospace and Aviation,BFSI,60.24006578692931
+BFSI,Aerospace and Aviation,60.24006578692931
+Apparel,IT-ITeS,60.23825755449024
+IT-ITeS,Apparel,60.23825755449024
+Agriculture,Electronics,60.23424100864987
+Electronics,Agriculture,60.23424100864987
+Media & Entertainment,Food Processing,60.227964631883026
+Food Processing,Media & Entertainment,60.227964631883026
+Capital Goods,Green Jobs,60.20014926335839
+Green Jobs,Capital Goods,60.20014926335839
+Handicrafts and Carpet,Aerospace and Aviation,60.18682675382952
+Aerospace and Aviation,Handicrafts and Carpet,60.18682675382952
+Agriculture,BFSI,60.168795874891686
+BFSI,Agriculture,60.168795874891686
+Management,Media & Entertainment,60.151689267114286
+Media & Entertainment,Management,60.151689267114286
+Cross Sectoral,Retail,60.149662435747295
+Retail,Cross Sectoral,60.149662435747295
+Construction,Information Technology Sector,60.14820629969101
+Information Technology Sector,Construction,60.14820629969101
+BFSI,Handicrafts and Carpet,60.14128931728483
+Handicrafts and Carpet,BFSI,60.14128931728483
+Cross Sectoral,Aerospace and Aviation,60.12550538344587
+Aerospace and Aviation,Cross Sectoral,60.12550538344587
+IT-ITeS,Instrumentation,60.122051174474436
+Instrumentation,IT-ITeS,60.122051174474436
+Green Jobs,IT-ITeS,60.092871206726976
+IT-ITeS,Green Jobs,60.092871206726976
+Life Sciences,Media & Entertainment,60.089516147256155
+Media & Entertainment,Life Sciences,60.089516147256155
+Capital Goods & Manufacturing,Textile,60.08038126228848
+Textile,Capital Goods & Manufacturing,60.08038126228848
+Media & Entertainment,Power,60.04541404042672
+Power,Media & Entertainment,60.04541404042672
+Information Technology Sector,Handicrafts and Carpet,59.989943960053886
+Handicrafts and Carpet,Information Technology Sector,59.989943960053886
+Agriculture,Information Technology Sector,59.97510706087712
+Information Technology Sector,Agriculture,59.97510706087712
+Management,"Water Supply, Sewerage, Waste Management & Remediation activities",59.97246503087668
+"Water Supply, Sewerage, Waste Management & Remediation activities",Management,59.97246503087668
+Capital Goods & Manufacturing,Gem & Jewellery,59.970352207272036
+Gem & Jewellery,Capital Goods & Manufacturing,59.970352207272036
+Media & Entertainment,Automotive,59.96736456094845
+Automotive,Media & Entertainment,59.96736456094845
+Capital Goods,Hydrocarbon,59.94671068478084
+Hydrocarbon,Capital Goods,59.94671068478084
+Leather,Cross Sectoral,59.899315891333615
+Cross Sectoral,Leather,59.899315891333615
+Gem & Jewellery,PwD,59.82980209613488
+PwD,Gem & Jewellery,59.82980209613488
+Textile,"Education, Training & Research",59.78205575107943
+"Education, Training & Research",Textile,59.78205575107943
+Management,Infrastructure Equipment,59.77550581943088
+Infrastructure Equipment,Management,59.77550581943088
+Mining,IT-ITeS,59.758178102063404
+IT-ITeS,Mining,59.758178102063404
+"Education, Training & Research",Gem & Jewellery,59.72921354329008
+Gem & Jewellery,"Education, Training & Research",59.72921354329008
+Plumbing,Capital Goods,59.7273615296758
+Capital Goods,Plumbing,59.7273615296758
+Iron and Steel,Media & Entertainment,59.72187048226775
+Media & Entertainment,Iron and Steel,59.72187048226775
+Cross Sectoral,IT-ITeS,59.69515156035335
+IT-ITeS,Cross Sectoral,59.69515156035335
+Capital Goods,Domestic Workers,59.67127775477523
+Domestic Workers,Capital Goods,59.67127775477523
+Textile,Green Jobs,59.65484669279996
+Green Jobs,Textile,59.65484669279996
+IT-ITeS,Hydrocarbon,59.65239024289337
+Hydrocarbon,IT-ITeS,59.65239024289337
+Handicrafts and Carpet,Capital Goods,59.63943463382811
+Capital Goods,Handicrafts and Carpet,59.63943463382811
+Information Technology Sector,Aerospace and Aviation,59.583984063521605
+Aerospace and Aviation,Information Technology Sector,59.583984063521605
+Agriculture,Management,59.566474663372276
+Management,Agriculture,59.566474663372276
+Construction,Management,59.55478849236871
+Management,Construction,59.55478849236871
+Rubber,Aerospace and Aviation,59.51136410038784
+Aerospace and Aviation,Rubber,59.51136410038784
+Food Processing,IT-ITeS,59.492376669982654
+IT-ITeS,Food Processing,59.492376669982654
+Media & Entertainment,Handicrafts and Carpet,59.46665782035595
+Handicrafts and Carpet,Media & Entertainment,59.46665782035595
+Instrumentation,Textile,59.45965476755732
+Textile,Instrumentation,59.45965476755732
+Textile,Wood & Carpentry,59.457090465455515
+Wood & Carpentry,Textile,59.457090465455515
+Agriculture,Textile,59.45667881521729
+Textile,Agriculture,59.45667881521729
+Rubber,Cross Sectoral,59.439739473468954
+Cross Sectoral,Rubber,59.439739473468954
+Capital Goods,Life Sciences,59.430054002413854
+Life Sciences,Capital Goods,59.430054002413854
+Electronics,Aerospace and Aviation,59.3520967495685
+Aerospace and Aviation,Electronics,59.3520967495685
+Capital Goods,Construction,59.31593388258075
+Construction,Capital Goods,59.31593388258075
+Electronics,Media & Entertainment,59.26832428638807
+Media & Entertainment,Electronics,59.26832428638807
+Retail,Rubber,59.2643880651231
+Rubber,Retail,59.2643880651231
+Media & Entertainment,Infrastructure Equipment,59.24491666360324
+Infrastructure Equipment,Media & Entertainment,59.24491666360324
+Electronics,Capital Goods,59.24082642254057
+Capital Goods,Electronics,59.24082642254057
+Aerospace and Aviation,Management,59.20925702758966
+Management,Aerospace and Aviation,59.20925702758966
+Textile,Tourism & Hospitality,59.1887966416184
+Tourism & Hospitality,Textile,59.1887966416184
+Capital Goods,Information Technology Sector,59.156428678783776
+Information Technology Sector,Capital Goods,59.156428678783776
+Hydrocarbon,Media & Entertainment,59.154202482715775
+Media & Entertainment,Hydrocarbon,59.154202482715775
+Gem & Jewellery,Domestic Workers,59.14796313378343
+Domestic Workers,Gem & Jewellery,59.14796313378343
+Gem & Jewellery,Mining,59.08360298683157
+Mining,Gem & Jewellery,59.08360298683157
+Instrumentation,Media & Entertainment,59.037369986281426
+Media & Entertainment,Instrumentation,59.037369986281426
+Cross Sectoral,Handicrafts and Carpet,59.03057328872597
+Handicrafts and Carpet,Cross Sectoral,59.03057328872597
+Gem & Jewellery,Iron and Steel,59.02535371623257
+Iron and Steel,Gem & Jewellery,59.02535371623257
+Gem & Jewellery,Furniture & Fittings,59.021059211146394
+Furniture & Fittings,Gem & Jewellery,59.021059211146394
+Food Processing,Gem & Jewellery,59.01168869101952
+Gem & Jewellery,Food Processing,59.01168869101952
+Retail,Gem & Jewellery,58.98945090532003
+Gem & Jewellery,Retail,58.98945090532003
+Agriculture,Capital Goods,58.987575984870396
+Capital Goods,Agriculture,58.987575984870396
+Telecom,Textile,58.96525970161802
+Textile,Telecom,58.96525970161802
+Electronics,Rubber,58.95199510585496
+Rubber,Electronics,58.95199510585496
+Management,Handicrafts and Carpet,58.93442214013614
+Handicrafts and Carpet,Management,58.93442214013614
+Media & Entertainment,Plumbing,58.87889729305456
+Plumbing,Media & Entertainment,58.87889729305456
+Textile,Rubber,58.85209138118586
+Rubber,Textile,58.85209138118586
+Logistics,Capital Goods,58.8508483785326
+Capital Goods,Logistics,58.8508483785326
+Sports,Capital Goods,58.832865664220826
+Capital Goods,Sports,58.832865664220826
+Media & Entertainment,Agriculture,58.546042763595956
+Agriculture,Media & Entertainment,58.546042763595956
+Plumbing,Textile,58.538007013459485
+Textile,Plumbing,58.538007013459485
+Gem & Jewellery,Power,58.508772624542964
+Power,Gem & Jewellery,58.508772624542964
+"Water Supply, Sewerage, Waste Management & Remediation activities",Capital Goods,58.466273143927886
+Capital Goods,"Water Supply, Sewerage, Waste Management & Remediation activities",58.466273143927886
+Tourism & Hospitality,Gem & Jewellery,58.4445864629006
+Gem & Jewellery,Tourism & Hospitality,58.4445864629006
+Hydrocarbon,Textile,58.43816032208936
+Textile,Hydrocarbon,58.43816032208936
+"Water Supply, Sewerage, Waste Management & Remediation activities",Textile,58.43291704453139
+Textile,"Water Supply, Sewerage, Waste Management & Remediation activities",58.43291704453139
+Textile,Furniture & Fittings,58.4118491885529
+Furniture & Fittings,Textile,58.4118491885529
+"Water Supply, Sewerage, Waste Management & Remediation activities",Information Technology Sector,58.369794144157105
+Information Technology Sector,"Water Supply, Sewerage, Waste Management & Remediation activities",58.369794144157105
+Textile,Construction,58.346384513011394
+Construction,Textile,58.346384513011394
+Construction,Media & Entertainment,58.342056176828514
+Media & Entertainment,Construction,58.342056176828514
+"Water Supply, Sewerage, Waste Management & Remediation activities",IT-ITeS,58.281878210750406
+IT-ITeS,"Water Supply, Sewerage, Waste Management & Remediation activities",58.281878210750406
+Gem & Jewellery,Green Jobs,58.27651673097514
+Green Jobs,Gem & Jewellery,58.27651673097514
+Tourism & Hospitality,Capital Goods,58.27416556929493
+Capital Goods,Tourism & Hospitality,58.27416556929493
+Sports,Gem & Jewellery,58.23230960505843
+Gem & Jewellery,Sports,58.23230960505843
+IT-ITeS,Media & Entertainment,58.12156755642565
+Media & Entertainment,IT-ITeS,58.12156755642565
+Textile,Automotive,58.07101693523864
+Automotive,Textile,58.07101693523864
+Capital Goods,Rubber,58.06454530508173
+Rubber,Capital Goods,58.06454530508173
+Iron and Steel,IT-ITeS,58.01243932622702
+IT-ITeS,Iron and Steel,58.01243932622702
+Plumbing,IT-ITeS,57.97473726395208
+IT-ITeS,Plumbing,57.97473726395208
+Agriculture,Gem & Jewellery,57.9513475020544
+Gem & Jewellery,Agriculture,57.9513475020544
+Aerospace and Aviation,Media & Entertainment,57.91466067539701
+Media & Entertainment,Aerospace and Aviation,57.91466067539701
+Wood & Carpentry,Beauty & Wellness,57.82974299276861
+Beauty & Wellness,Wood & Carpentry,57.82974299276861
+Rubber,BFSI,57.82897657421713
+BFSI,Rubber,57.82897657421713
+Infrastructure Equipment,Gem & Jewellery,57.773265644630634
+Gem & Jewellery,Infrastructure Equipment,57.773265644630634
+Capital Goods,Cross Sectoral,57.74121113698314
+Cross Sectoral,Capital Goods,57.74121113698314
+Gem & Jewellery,BFSI,57.73999846876611
+BFSI,Gem & Jewellery,57.73999846876611
+Healthcare,Capital Goods,57.698584470876646
+Capital Goods,Healthcare,57.698584470876646
+Infrastructure Equipment,IT-ITeS,57.655355065108374
+IT-ITeS,Infrastructure Equipment,57.655355065108374
+Rubber,Information Technology Sector,57.6394204445264
+Information Technology Sector,Rubber,57.6394204445264
+Healthcare,Gem & Jewellery,57.63618140642637
+Gem & Jewellery,Healthcare,57.63618140642637
+Construction,Gem & Jewellery,57.62548881160521
+Gem & Jewellery,Construction,57.62548881160521
+BFSI,Capital Goods,57.595992688934565
+Capital Goods,BFSI,57.595992688934565
+Gem & Jewellery,Automotive,57.5147967910338
+Automotive,Gem & Jewellery,57.5147967910338
+Leather,IT-ITeS,57.51188226320376
+IT-ITeS,Leather,57.51188226320376
+Textile,BFSI,57.4564435975786
+BFSI,Textile,57.4564435975786
+IT-ITeS,Construction,57.437914333042144
+Construction,IT-ITeS,57.437914333042144
+Aerospace and Aviation,IT-ITeS,57.40642239553779
+IT-ITeS,Aerospace and Aviation,57.40642239553779
+Textile,Retail,57.39324165994691
+Retail,Textile,57.39324165994691
+Gem & Jewellery,Telecom,57.3812041270573
+Telecom,Gem & Jewellery,57.3812041270573
+Sports,Textile,57.357240329260975
+Textile,Sports,57.357240329260975
+Rubber,Management,57.343541905202116
+Management,Rubber,57.343541905202116
+Retail,Capital Goods,57.14762745913666
+Capital Goods,Retail,57.14762745913666
+Cross Sectoral,Media & Entertainment,57.13243373119196
+Media & Entertainment,Cross Sectoral,57.13243373119196
+Gem & Jewellery,Information Technology Sector,57.1171894310145
+Information Technology Sector,Gem & Jewellery,57.1171894310145
+Media & Entertainment,Rubber,57.07791525383537
+Rubber,Media & Entertainment,57.07791525383537
+Gem & Jewellery,Rubber,57.06225224808511
+Rubber,Gem & Jewellery,57.06225224808511
+Agriculture,IT-ITeS,57.03477459939002
+IT-ITeS,Agriculture,57.03477459939002
+Instrumentation,Gem & Jewellery,56.989340345316606
+Gem & Jewellery,Instrumentation,56.989340345316606
+Healthcare,Textile,56.96298774961975
+Textile,Healthcare,56.96298774961975
+Aerospace and Aviation,Capital Goods,56.94865215952939
+Capital Goods,Aerospace and Aviation,56.94865215952939
+Electronics,Gem & Jewellery,56.938388159274844
+Gem & Jewellery,Electronics,56.938388159274844
+Gem & Jewellery,Plumbing,56.81933433433348
+Plumbing,Gem & Jewellery,56.81933433433348
+Textile,Gem & Jewellery,56.81780745136097
+Gem & Jewellery,Textile,56.81780745136097
+Domestic Workers,Beauty & Wellness,56.77612438975914
+Beauty & Wellness,Domestic Workers,56.77612438975914
+Beauty & Wellness,Healthcare,56.675410269886406
+Healthcare,Beauty & Wellness,56.675410269886406
+Capital Goods,Management,56.6153339667697
+Management,Capital Goods,56.6153339667697
+Life Sciences,Gem & Jewellery,56.60539234635412
+Gem & Jewellery,Life Sciences,56.60539234635412
+Life Sciences,Textile,56.575770163686244
+Textile,Life Sciences,56.575770163686244
+Media & Entertainment,"Water Supply, Sewerage, Waste Management & Remediation activities",56.55310929816509
+"Water Supply, Sewerage, Waste Management & Remediation activities",Media & Entertainment,56.55310929816509
+IT-ITeS,Capital Goods,56.54687214535219
+Capital Goods,IT-ITeS,56.54687214535219
+Beauty & Wellness,"Education, Training & Research",56.538267268530184
+"Education, Training & Research",Beauty & Wellness,56.538267268530184
+PwD,Beauty & Wellness,56.5222481585804
+Beauty & Wellness,PwD,56.5222481585804
+Gem & Jewellery,Hydrocarbon,56.46078364976565
+Hydrocarbon,Gem & Jewellery,56.46078364976565
+Sports,Beauty & Wellness,56.389510851183516
+Beauty & Wellness,Sports,56.389510851183516
+Electronics,Textile,56.26018912665242
+Textile,Electronics,56.26018912665242
+Handicrafts and Carpet,IT-ITeS,56.146414646442004
+IT-ITeS,Handicrafts and Carpet,56.146414646442004
+Logistics,Gem & Jewellery,56.1185384647619
+Gem & Jewellery,Logistics,56.1185384647619
+Beauty & Wellness,Tourism & Hospitality,56.061416111721414
+Tourism & Hospitality,Beauty & Wellness,56.061416111721414
+Aerospace and Aviation,Textile,56.048265729312476
+Textile,Aerospace and Aviation,56.048265729312476
+Gem & Jewellery,Media & Entertainment,55.841353909528955
+Media & Entertainment,Gem & Jewellery,55.841353909528955
+Beauty & Wellness,Retail,55.81084954941533
+Retail,Beauty & Wellness,55.81084954941533
+Capital Goods,Gem & Jewellery,55.80320179093162
+Gem & Jewellery,Capital Goods,55.80320179093162
+Aerospace and Aviation,Gem & Jewellery,55.73318541848062
+Gem & Jewellery,Aerospace and Aviation,55.73318541848062
+Media & Entertainment,Capital Goods,55.67505076429604
+Capital Goods,Media & Entertainment,55.67505076429604
+Textile,Logistics,55.64978315525381
+Logistics,Textile,55.64978315525381
+Gem & Jewellery,"Water Supply, Sewerage, Waste Management & Remediation activities",55.63341460699741
+"Water Supply, Sewerage, Waste Management & Remediation activities",Gem & Jewellery,55.63341460699741
+Information Technology Sector,Textile,55.56436110719113
+Textile,Information Technology Sector,55.56436110719113
+Beauty & Wellness,BFSI,55.45183687014814
+BFSI,Beauty & Wellness,55.45183687014814
+Cross Sectoral,Gem & Jewellery,55.19153060650877
+Gem & Jewellery,Cross Sectoral,55.19153060650877
+Gem & Jewellery,Management,55.17805093267817
+Management,Gem & Jewellery,55.17805093267817
+Beauty & Wellness,Handicrafts and Carpet,55.17130074502467
+Handicrafts and Carpet,Beauty & Wellness,55.17130074502467
+Information Technology Sector,Beauty & Wellness,55.15006462173534
+Beauty & Wellness,Information Technology Sector,55.15006462173534
+Food Processing,Beauty & Wellness,55.08086474255656
+Beauty & Wellness,Food Processing,55.08086474255656
+Power,Beauty & Wellness,55.06648044335823
+Beauty & Wellness,Power,55.06648044335823
+Beauty & Wellness,Capital Goods & Manufacturing,55.04798623139587
+Capital Goods & Manufacturing,Beauty & Wellness,55.04798623139587
+IT-ITeS,Rubber,54.94512235157781
+Rubber,IT-ITeS,54.94512235157781
+Leather,Beauty & Wellness,54.867978064504314
+Beauty & Wellness,Leather,54.867978064504314
+Beauty & Wellness,Green Jobs,54.831013879386745
+Green Jobs,Beauty & Wellness,54.831013879386745
+Mining,Beauty & Wellness,54.82343165833001
+Beauty & Wellness,Mining,54.82343165833001
+Capital Goods,Textile,54.77650944046774
+Textile,Capital Goods,54.77650944046774
+Plumbing,Beauty & Wellness,54.724888480901356
+Beauty & Wellness,Plumbing,54.724888480901356
+Beauty & Wellness,Apparel,54.6817840470477
+Apparel,Beauty & Wellness,54.6817840470477
+Telecom,Beauty & Wellness,54.60505453857619
+Beauty & Wellness,Telecom,54.60505453857619
+Beauty & Wellness,Agriculture,54.53508809232795
+Agriculture,Beauty & Wellness,54.53508809232795
+Life Sciences,Beauty & Wellness,54.47315290708001
+Beauty & Wellness,Life Sciences,54.47315290708001
+Automotive,Beauty & Wellness,54.40542823375417
+Beauty & Wellness,Automotive,54.40542823375417
+Textile,Cross Sectoral,54.3994092026205
+Cross Sectoral,Textile,54.3994092026205
+Beauty & Wellness,Management,54.28010937234029
+Management,Beauty & Wellness,54.28010937234029
+Beauty & Wellness,Furniture & Fittings,54.2349187430556
+Furniture & Fittings,Beauty & Wellness,54.2349187430556
+Beauty & Wellness,Construction,54.1946678702833
+Construction,Beauty & Wellness,54.1946678702833
+Beauty & Wellness,Instrumentation,54.18348884173361
+Instrumentation,Beauty & Wellness,54.18348884173361
+Iron and Steel,Beauty & Wellness,54.05054237786135
+Beauty & Wellness,Iron and Steel,54.05054237786135
+Beauty & Wellness,Infrastructure Equipment,54.037912958458634
+Infrastructure Equipment,Beauty & Wellness,54.037912958458634
+Beauty & Wellness,Hydrocarbon,54.03255539721539
+Hydrocarbon,Beauty & Wellness,54.03255539721539
+Rubber,Beauty & Wellness,53.957169565167916
+Beauty & Wellness,Rubber,53.957169565167916
+Beauty & Wellness,"Water Supply, Sewerage, Waste Management & Remediation activities",53.94570766477294
+"Water Supply, Sewerage, Waste Management & Remediation activities",Beauty & Wellness,53.94570766477294
+Beauty & Wellness,Aerospace and Aviation,53.82286845477896
+Aerospace and Aviation,Beauty & Wellness,53.82286845477896
+Media & Entertainment,Beauty & Wellness,53.78666031768861
+Beauty & Wellness,Media & Entertainment,53.78666031768861
+Beauty & Wellness,Logistics,53.70768302969402
+Logistics,Beauty & Wellness,53.70768302969402
+Electronics,Beauty & Wellness,53.636824673403574
+Beauty & Wellness,Electronics,53.636824673403574
+Beauty & Wellness,Gem & Jewellery,53.49280401211444
+Gem & Jewellery,Beauty & Wellness,53.49280401211444
+Management,Textile,53.097375794992686
+Textile,Management,53.097375794992686
+Textile,Media & Entertainment,53.05570553359968
+Media & Entertainment,Textile,53.05570553359968
+Gem & Jewellery,IT-ITeS,53.049313042317756
+IT-ITeS,Gem & Jewellery,53.049313042317756
+Beauty & Wellness,Cross Sectoral,52.80053178674407
+Cross Sectoral,Beauty & Wellness,52.80053178674407
+IT-ITeS,Beauty & Wellness,52.2761894310688
+Beauty & Wellness,IT-ITeS,52.2761894310688
+Beauty & Wellness,Textile,51.858618245705536
+Textile,Beauty & Wellness,51.858618245705536
+Capital Goods,Beauty & Wellness,51.81702334252462
+Beauty & Wellness,Capital Goods,51.81702334252462
+Paints & Coatings,"Water Supply, Sewerage, Waste Management & Remediation activities",50.94303163365351
+"Water Supply, Sewerage, Waste Management & Remediation activities",Paints & Coatings,50.94303163365351
+Textile,IT-ITeS,50.35510275581476
+IT-ITeS,Textile,50.35510275581476
+Paints & Coatings,Instrumentation,49.562727710316636
+Instrumentation,Paints & Coatings,49.562727710316636
+Plumbing,Paints & Coatings,49.325739517263216
+Paints & Coatings,Plumbing,49.325739517263216
+IT-ITeS,Paints & Coatings,49.05857312467454
+Paints & Coatings,IT-ITeS,49.05857312467454
+Retail,Paints & Coatings,48.99347577516212
+Paints & Coatings,Retail,48.99347577516212
+Cross Sectoral,Paints & Coatings,48.97606695487186
+Paints & Coatings,Cross Sectoral,48.97606695487186
+Life Sciences,Paints & Coatings,48.92302503948596
+Paints & Coatings,Life Sciences,48.92302503948596
+Paints & Coatings,Automotive,48.878588002213874
+Automotive,Paints & Coatings,48.878588002213874
+Hydrocarbon,Paints & Coatings,48.870553030789864
+Paints & Coatings,Hydrocarbon,48.870553030789864
+Furniture & Fittings,Paints & Coatings,48.82938750770946
+Paints & Coatings,Furniture & Fittings,48.82938750770946
+Paints & Coatings,Capital Goods,48.78682171929359
+Capital Goods,Paints & Coatings,48.78682171929359
+Telecom,Paints & Coatings,48.76416656058927
+Paints & Coatings,Telecom,48.76416656058927
+Power,Paints & Coatings,48.64755128923681
+Paints & Coatings,Power,48.64755128923681
+Paints & Coatings,Management,48.620374578235925
+Management,Paints & Coatings,48.620374578235925
+Beauty & Wellness,Paints & Coatings,48.56342832205005
+Paints & Coatings,Beauty & Wellness,48.56342832205005
+Electronics,Paints & Coatings,48.53237899891087
+Paints & Coatings,Electronics,48.53237899891087
+Paints & Coatings,Logistics,48.52292658166143
+Logistics,Paints & Coatings,48.52292658166143
+Infrastructure Equipment,Paints & Coatings,48.47755065485514
+Paints & Coatings,Infrastructure Equipment,48.47755065485514
+Paints & Coatings,Construction,48.42268316805819
+Construction,Paints & Coatings,48.42268316805819
+Iron and Steel,Paints & Coatings,48.381109224213844
+Paints & Coatings,Iron and Steel,48.381109224213844
+Capital Goods & Manufacturing,Paints & Coatings,48.25683102491635
+Paints & Coatings,Capital Goods & Manufacturing,48.25683102491635
+Paints & Coatings,Rubber,48.245827344395096
+Rubber,Paints & Coatings,48.245827344395096
+Paints & Coatings,BFSI,48.24335938566862
+BFSI,Paints & Coatings,48.24335938566862
+Paints & Coatings,Tourism & Hospitality,48.17897885730646
+Tourism & Hospitality,Paints & Coatings,48.17897885730646
+Aerospace and Aviation,Paints & Coatings,48.1726228674964
+Paints & Coatings,Aerospace and Aviation,48.1726228674964
+Paints & Coatings,Media & Entertainment,48.16927612512025
+Media & Entertainment,Paints & Coatings,48.16927612512025
+Mining,Paints & Coatings,48.07275889173113
+Paints & Coatings,Mining,48.07275889173113
+Paints & Coatings,Green Jobs,47.83530992466407
+Green Jobs,Paints & Coatings,47.83530992466407
+Food Processing,Paints & Coatings,47.831492788896
+Paints & Coatings,Food Processing,47.831492788896
+Paints & Coatings,Sports,47.72677063926176
+Sports,Paints & Coatings,47.72677063926176
+Information Technology Sector,Paints & Coatings,47.52825715465767
+Paints & Coatings,Information Technology Sector,47.52825715465767
+Paints & Coatings,Apparel,47.520244361437
+Apparel,Paints & Coatings,47.520244361437
+Agriculture,Paints & Coatings,47.48563878636512
+Paints & Coatings,Agriculture,47.48563878636512
+Healthcare,Paints & Coatings,47.281484155227254
+Paints & Coatings,Healthcare,47.281484155227254
+Domestic Workers,Paints & Coatings,47.1592437196586
+Paints & Coatings,Domestic Workers,47.1592437196586
+Paints & Coatings,Leather,47.11360478825358
+Leather,Paints & Coatings,47.11360478825358
+Wood & Carpentry,Paints & Coatings,46.84444782640156
+Paints & Coatings,Wood & Carpentry,46.84444782640156
+Handicrafts and Carpet,Paints & Coatings,46.83825754392833
+Paints & Coatings,Handicrafts and Carpet,46.83825754392833
+PwD,Paints & Coatings,46.77525767506613
+Paints & Coatings,PwD,46.77525767506613
+Gem & Jewellery,Paints & Coatings,46.523432754094124
+Paints & Coatings,Gem & Jewellery,46.523432754094124
+Paints & Coatings,"Education, Training & Research",46.42184689740936
+"Education, Training & Research",Paints & Coatings,46.42184689740936
+Paints & Coatings,Textile,44.63440722920578
+Textile,Paints & Coatings,44.63440722920578
